@@ -1,0 +1,1001 @@
+id_colaborador,nome,sexo,idade,faixa_etaria,estado_civil,escolaridade,cidade,estado,regional,centro_distribuicao,pcd,data_admissao,tempo_empresa,gestor,tipo_contrato,modelo_trabalho,status
+1,Brenda Alves,Masculino,37,35-44,Casado,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Sim,2019-02-04,7.4,Sra. Isabelly Câmara,CLT,Híbrido,Ativo
+2,Cauã Rocha,Masculino,38,35-44,Casado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2024-03-24,2.3,Dra. Aurora Pastor,Temporário,Presencial,Ativo
+3,Ana Beatriz Alves,Feminino,30,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-03-03,4.3,Henrique da Conceição,CLT,Presencial,Ativo
+4,Amanda Novais,Masculino,28,25-34,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2018-03-02,8.3,Yago Leão,CLT,Presencial,Ativo
+5,Pietro Pastor,Masculino,37,35-44,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-12-24,0.5,André Teixeira,CLT,Presencial,Ativo
+6,Otávio Fernandes,Feminino,49,45-54,Divorciado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2021-04-07,5.2,Eduardo Cunha,CLT,Presencial,Ativo
+7,Sr. Caleb Garcia,Feminino,31,25-34,Solteiro,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-07-30,6.9,Luiz Henrique Ferreira,CLT,Presencial,Inativo
+8,Julia Aparecida,Masculino,38,35-44,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2024-03-18,2.3,Sra. Zoe Campos,CLT,Presencial,Ativo
+9,Anna Liz Novaes,Masculino,30,25-34,Solteiro,Pós,Salvador,BA,Nordeste,CD Salvador,Não,2022-11-16,3.6,Luiz Miguel Oliveira,CLT,Híbrido,Ativo
+10,Bernardo Aparecida,Masculino,33,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-10-13,7.7,Heloísa Vargas,CLT,Presencial,Ativo
+11,Bruno da Conceição,Feminino,26,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-01-01,3.5,Mateus da Mota,CLT,Presencial,Ativo
+12,Maria Clara Castro,Feminino,25,25-34,Divorciado,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2016-08-13,9.9,Dr. Gustavo Henrique Rios,CLT,Presencial,Ativo
+13,Brayan Pereira,Feminino,24,18-24,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2021-08-27,4.8,Eloá Nascimento,CLT,Presencial,Ativo
+14,Srta. Elisa Martins,Feminino,52,45-54,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Sim,2016-02-05,10.4,Júlia Porto,CLT,Presencial,Ativo
+15,Dra. Hellena Rodrigues,Feminino,18,18-24,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-05-04,7.2,Sr. Ian Andrade,CLT,Presencial,Ativo
+16,Dr. João Felipe Azevedo,Masculino,21,18-24,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-01-21,1.4,Levi Cunha,CLT,Presencial,Ativo
+17,Sara Gonçalves,Feminino,47,45-54,Casado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-02-07,1.4,Natália Casa Grande,CLT,Presencial,Ativo
+18,Davi Miguel da Cruz,Feminino,30,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-12-02,7.6,Dra. Zoe da Luz,CLT,Presencial,Ativo
+19,Dra. Mariane Pacheco,Feminino,33,25-34,Casado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-01-27,7.4,Maria Cecília Câmara,CLT,Presencial,Ativo
+20,Thomas Monteiro,Masculino,45,45-54,Solteiro,Pós,Curitiba,PR,Sul,CD Curitiba,Não,2016-09-21,9.8,Benicio Camargo,CLT,Presencial,Ativo
+21,Emanuel Vieira,Feminino,31,25-34,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-01-20,8.4,Mariana Peixoto,CLT,Presencial,Ativo
+22,Matheus Garcia,Feminino,46,45-54,Casado,Pós,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-03-31,10.3,Nina Moura,CLT,Presencial,Ativo
+23,Yuri Albuquerque,Masculino,26,25-34,Casado,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2020-04-04,6.2,Bruna Rodrigues,Temporário,Presencial,Ativo
+24,Juliana Vargas,Feminino,50,45-54,Divorciado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Sim,2024-03-25,2.3,Manuela Camargo,CLT,Presencial,Ativo
+25,Pedro Henrique Castro,Masculino,48,45-54,Divorciado,Superior,Recife,PE,Nordeste,CD Recife,Não,2020-06-21,6.0,Agatha Silveira,CLT,Presencial,Inativo
+26,Sra. Sarah Teixeira,Feminino,38,35-44,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-09-06,9.8,Thiago Caldeira,CLT,Presencial,Ativo
+27,Letícia Porto,Masculino,52,45-54,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2017-03-22,9.3,Fernanda Cassiano,CLT,Presencial,Ativo
+28,Sr. Vitor Hugo Vasconcelos,Masculino,26,25-34,Solteiro,Fundamental,Salvador,BA,Nordeste,CD Salvador,Sim,2021-04-19,5.2,Agatha Peixoto,CLT,Presencial,Ativo
+29,Dr. Antony Camargo,Masculino,42,35-44,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-04-15,4.2,Dr. Isaque Araújo,CLT,Híbrido,Ativo
+30,Bruno Barros,Masculino,33,25-34,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2020-11-09,5.6,Sra. Ana Lívia Teixeira,CLT,Presencial,Ativo
+31,Carolina Cardoso,Masculino,22,18-24,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2023-03-27,3.3,Olívia Novaes,CLT,Presencial,Ativo
+32,João Moura,Feminino,35,35-44,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2025-04-16,1.2,Mariana Cunha,CLT,Presencial,Ativo
+33,Gabriela Silva,Masculino,44,35-44,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-08-01,4.9,Murilo Rios,CLT,Híbrido,Ativo
+34,Maria Fernanda Macedo,Masculino,29,25-34,Casado,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-08-12,6.9,Milena Campos,CLT,Presencial,Ativo
+35,Henry Gabriel Azevedo,Masculino,21,18-24,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-06-02,7.1,Sr. Yuri da Conceição,CLT,Presencial,Ativo
+36,Hellena Abreu,Masculino,25,25-34,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-02-15,7.4,Bento da Conceição,CLT,Presencial,Ativo
+37,Arthur Gabriel Farias,Masculino,42,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-12-11,9.6,Théo da Costa,CLT,Híbrido,Ativo
+38,Ryan Cunha,Masculino,44,35-44,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2019-12-01,6.6,Caroline Silveira,CLT,Presencial,Ativo
+39,Olívia da Cruz,Masculino,39,35-44,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2021-02-22,5.4,Maria Luísa Correia,CLT,Remoto,Ativo
+40,Calebe Ribeiro,Masculino,56,55+,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-03-04,9.3,Maria Lima,CLT,Presencial,Inativo
+41,Nina Siqueira,Masculino,43,35-44,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-05-13,1.1,Carlos Eduardo Araújo,Aprendiz,Presencial,Inativo
+42,Maitê Caldeira,Feminino,30,25-34,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2024-08-22,1.9,Gael Correia,CLT,Presencial,Ativo
+43,Melissa Carvalho,Feminino,35,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2017-06-04,9.1,Emilly da Mota,CLT,Presencial,Ativo
+44,Isadora Barbosa,Feminino,34,25-34,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Sim,2016-12-07,9.6,Beatriz Aragão,CLT,Presencial,Ativo
+45,Ágatha Albuquerque,Feminino,35,35-44,Solteiro,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-06-16,3.0,Isaac Cavalcante,CLT,Presencial,Ativo
+46,Raquel Mendes,Feminino,43,35-44,Divorciado,Superior,Recife,PE,Nordeste,CD Recife,Não,2018-07-27,7.9,Murilo Araújo,CLT,Presencial,Ativo
+47,Mateus Abreu,Feminino,28,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-02-16,10.4,Julia Viana,CLT,Presencial,Ativo
+48,Laura Lima,Feminino,47,45-54,Casado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2022-02-13,4.4,Dra. Raquel Cassiano,CLT,Presencial,Ativo
+49,Juan Cunha,Masculino,30,25-34,Casado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2016-01-29,10.4,Vitor Hugo Araújo,CLT,Presencial,Ativo
+50,Sra. Ana Laura Aragão,Feminino,55,55+,Solteiro,MBA,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-08-21,7.9,Pietra Montenegro,CLT,Presencial,Ativo
+51,Eduarda Araújo,Masculino,31,25-34,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-10-28,0.7,Anna Liz Cirino,CLT,Presencial,Ativo
+52,Bernardo Rocha,Masculino,26,25-34,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2018-09-14,7.8,Nathan Campos,CLT,Presencial,Ativo
+53,Isadora Pacheco,Feminino,44,35-44,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2023-07-08,3.0,Ana Cecília Pinto,CLT,Presencial,Ativo
+54,Otto Ribeiro,Masculino,27,25-34,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2018-11-20,7.6,Stephany Dias,CLT,Presencial,Inativo
+55,Gustavo Rios,Feminino,36,35-44,Solteiro,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2017-07-25,8.9,Sra. Isabella da Luz,CLT,Híbrido,Inativo
+56,Caroline Rios,Masculino,35,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-10-27,4.7,Letícia Marques,CLT,Presencial,Ativo
+57,Sr. Anthony Marques,Feminino,23,18-24,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2020-08-09,5.9,Beatriz Barbosa,CLT,Presencial,Ativo
+58,Hadassa Montenegro,Feminino,28,25-34,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2017-01-12,9.5,Davi Lucca Ferreira,CLT,Presencial,Inativo
+59,Joaquim Freitas,Masculino,36,35-44,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Sim,2021-08-20,4.9,Emanuel Macedo,CLT,Presencial,Ativo
+60,Liz Pimenta,Feminino,47,45-54,Solteiro,Pós,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2022-02-19,4.4,Vitória Albuquerque,CLT,Presencial,Ativo
+61,Letícia Ribeiro,Feminino,25,25-34,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2024-10-03,1.7,Davi Luiz da Luz,CLT,Presencial,Ativo
+62,Cauê Souza,Feminino,42,35-44,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-12-18,9.5,Daniela da Mata,CLT,Presencial,Ativo
+63,Gustavo Henrique Silva,Feminino,18,18-24,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-12-24,2.5,Sr. João Montenegro,CLT,Presencial,Ativo
+64,Isis Aragão,Feminino,18,18-24,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-01-12,6.5,Otávio da Mota,CLT,Híbrido,Ativo
+65,Alexandre Farias,Feminino,35,35-44,Divorciado,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2021-01-21,5.4,João Castro,CLT,Presencial,Ativo
+66,Sra. Mariane Novais,Feminino,38,35-44,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2019-06-28,7.0,Daniel Barbosa,CLT,Presencial,Ativo
+67,Srta. Ísis Andrade,Feminino,36,35-44,Solteiro,Pós,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2024-12-08,1.6,Sr. Pedro Cardoso,CLT,Presencial,Inativo
+68,Leandro Fonseca,Feminino,33,25-34,Divorciado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-11-18,8.6,Luiz Henrique Costela,CLT,Presencial,Ativo
+69,Isadora Rios,Feminino,44,35-44,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Sim,2019-12-11,6.6,Luiz Gustavo Vasconcelos,CLT,Presencial,Inativo
+70,Maria Luísa Pinto,Masculino,43,35-44,Solteiro,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2018-08-01,7.9,Srta. Isabela Castro,Temporário,Presencial,Ativo
+71,Noah Alves,Masculino,25,25-34,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-10-20,1.7,Lucas Gabriel Viana,CLT,Presencial,Ativo
+72,Isadora da Mata,Masculino,36,35-44,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2019-05-28,7.1,Cauê Garcia,CLT,Presencial,Ativo
+73,Ravy Câmara,Masculino,43,35-44,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-04-27,9.2,Raul Ferreira,CLT,Presencial,Ativo
+74,Ian Câmara,Masculino,20,18-24,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2020-05-22,6.1,Gael Guerra,CLT,Presencial,Ativo
+75,Dr. Bernardo Vargas,Feminino,50,45-54,Casado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2022-08-25,3.9,Luiz Fernando Ramos,CLT,Híbrido,Ativo
+76,Maria Liz Rocha,Feminino,36,35-44,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-11-22,0.6,Luísa Alves,CLT,Presencial,Ativo
+77,José Pedro Cavalcanti,Feminino,37,35-44,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2018-04-14,8.2,Julia Andrade,CLT,Presencial,Ativo
+78,Pedro Henrique Ferreira,Feminino,34,25-34,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2016-05-09,10.2,Sra. Maya Pereira,CLT,Híbrido,Ativo
+79,Bruna Gomes,Masculino,37,35-44,Solteiro,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2024-06-10,2.1,Esther da Cunha,CLT,Presencial,Ativo
+80,Pedro Henrique Abreu,Feminino,23,18-24,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2019-01-27,7.4,Zoe Rodrigues,CLT,Presencial,Ativo
+81,Dra. Fernanda Fonseca,Masculino,35,35-44,Solteiro,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-10-30,5.7,Ana Lívia Rios,CLT,Presencial,Inativo
+82,Dr. Davi Silveira,Masculino,44,35-44,Solteiro,Pós,Recife,PE,Nordeste,CD Recife,Não,2023-01-01,3.5,Thiago das Neves,Temporário,Presencial,Ativo
+83,Maria Luísa Duarte,Masculino,29,25-34,Solteiro,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Sim,2018-02-14,8.4,Laís Novaes,CLT,Presencial,Ativo
+84,Gael Leão,Feminino,43,35-44,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-10-25,3.7,Maria Helena Rocha,CLT,Presencial,Inativo
+85,Srta. Liz Guerra,Masculino,27,25-34,Solteiro,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2018-02-19,8.4,Agatha da Rosa,CLT,Presencial,Ativo
+86,Gustavo Henrique Lopes,Masculino,45,45-54,Solteiro,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2019-06-10,7.1,Luna Martins,CLT,Presencial,Ativo
+87,Melina Rocha,Masculino,29,25-34,Casado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2023-07-06,3.0,Thomas Melo,CLT,Presencial,Ativo
+88,Srta. Antonella da Paz,Feminino,42,35-44,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2024-03-03,2.3,Lívia Borges,CLT,Presencial,Inativo
+89,Leonardo Câmara,Feminino,30,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-05-20,8.1,Diogo Alves,CLT,Presencial,Ativo
+90,Joaquim Melo,Masculino,27,25-34,Solteiro,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-09-24,7.8,Ana Sophia Marques,CLT,Remoto,Ativo
+91,Evelyn Silva,Masculino,30,25-34,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-12-24,4.5,Sra. Sabrina Guerra,CLT,Presencial,Ativo
+92,Diogo Rezende,Feminino,32,25-34,Divorciado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-03-20,1.3,Srta. Bianca Vasconcelos,CLT,Presencial,Inativo
+93,Hellena Cavalcanti,Masculino,35,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-07-23,9.9,Dra. Nicole Aragão,CLT,Presencial,Inativo
+94,Isadora Campos,Masculino,29,25-34,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-06-13,10.1,Catarina Martins,CLT,Presencial,Ativo
+95,Vitória Novais,Masculino,27,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-12-27,0.5,Luiza Sá,CLT,Presencial,Ativo
+96,Sofia Lima,Feminino,42,35-44,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-08-23,2.9,Melissa Castro,CLT,Presencial,Ativo
+97,Sra. Milena da Luz,Feminino,53,45-54,Solteiro,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2017-04-29,9.2,João Guilherme Vargas,CLT,Presencial,Ativo
+98,Raquel Pires,Masculino,25,25-34,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2024-04-25,2.2,João Guilherme Macedo,CLT,Presencial,Ativo
+99,João Pedro da Costa,Masculino,37,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-06-15,1.0,Lucas Gabriel Dias,CLT,Presencial,Ativo
+100,Anna Liz Carvalho,Feminino,35,35-44,Solteiro,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-01-03,7.5,Igor Gomes,CLT,Presencial,Ativo
+101,Srta. Hadassa Azevedo,Feminino,41,35-44,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-01-12,5.5,Maria Luísa Farias,CLT,Presencial,Ativo
+102,Nina Leão,Feminino,42,35-44,Viúvo,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-02-27,9.3,Gustavo Leão,CLT,Presencial,Ativo
+103,Alícia Teixeira,Feminino,24,18-24,Viúvo,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Sim,2023-11-07,2.6,Maria Helena Mendes,CLT,Presencial,Ativo
+104,Luiz Gustavo da Rosa,Feminino,18,18-24,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-08-17,0.9,Mariah Nascimento,CLT,Presencial,Ativo
+105,Dra. Ísis Pereira,Masculino,29,25-34,Divorciado,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2017-08-01,8.9,Ryan Câmara,CLT,Presencial,Ativo
+106,Pedro Henrique Mendonça,Feminino,32,25-34,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2021-01-21,5.4,Mathias Fernandes,CLT,Presencial,Inativo
+107,Maria Luiza Silveira,Feminino,38,35-44,Solteiro,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2026-03-19,0.3,Ravi Lucca Cardoso,CLT,Híbrido,Ativo
+108,Yasmin Alves,Masculino,33,25-34,Casado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-09-06,5.8,Amanda Barros,CLT,Presencial,Ativo
+109,Mariane Carvalho,Masculino,37,35-44,Casado,Fundamental,Campinas,SP,Sudeste,CD Campinas,Não,2017-09-20,8.8,Emilly Aragão,CLT,Presencial,Ativo
+110,Mateus Duarte,Masculino,18,18-24,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2026-02-22,0.4,Rafael Duarte,CLT,Presencial,Ativo
+111,Dr. João Lucas Sá,Feminino,35,35-44,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2024-12-17,1.5,Isis Barros,CLT,Presencial,Ativo
+112,Allana Souza,Masculino,40,35-44,Solteiro,Pós,Salvador,BA,Nordeste,CD Salvador,Não,2021-07-30,4.9,Ana Júlia Ferreira,CLT,Presencial,Inativo
+113,Bernardo Vasconcelos,Masculino,18,18-24,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2024-08-06,1.9,Ana Cecília Sá,CLT,Presencial,Ativo
+114,Josué Costa,Masculino,30,25-34,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2022-05-09,4.1,Eduardo da Costa,CLT,Presencial,Ativo
+115,Renan Rios,Masculino,34,25-34,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-11-09,7.6,Henrique Martins,CLT,Presencial,Ativo
+116,Sra. Maria Eduarda Cavalcante,Masculino,40,35-44,Casado,Pós,Curitiba,PR,Sul,CD Curitiba,Sim,2024-03-07,2.3,Bruna Vasconcelos,CLT,Híbrido,Ativo
+117,Leonardo Caldeira,Masculino,42,35-44,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-10-12,2.7,Amanda das Neves,CLT,Presencial,Ativo
+118,Maria Flor Gonçalves,Feminino,33,25-34,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2021-07-08,5.0,Srta. Ana Vitória Pastor,CLT,Presencial,Ativo
+119,Dra. Isabelly Caldeira,Masculino,18,18-24,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2020-04-05,6.2,Sra. Bárbara Vieira,CLT,Presencial,Ativo
+120,Ana Cecília Ferreira,Masculino,29,25-34,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-09-24,2.8,Mariane Ribeiro,CLT,Presencial,Ativo
+121,Sr. Thiago Ramos,Feminino,38,35-44,Solteiro,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-03-03,9.3,Sr. Otto Mendonça,CLT,Híbrido,Ativo
+122,Pedro Fonseca,Masculino,18,18-24,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-08-24,0.9,Natália Santos,CLT,Presencial,Ativo
+123,Pedro Henrique Cavalcanti,Feminino,43,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-11-08,0.6,Dra. Júlia Pimenta,CLT,Presencial,Ativo
+124,Rafaela Martins,Masculino,18,18-24,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Sim,2017-07-11,9.0,Juliana Duarte,CLT,Presencial,Inativo
+125,Caio da Mota,Masculino,35,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2020-09-01,5.8,Isabelly Sá,CLT,Presencial,Ativo
+126,Maria Helena Fernandes,Feminino,39,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2023-04-11,3.2,Thales Duarte,CLT,Presencial,Ativo
+127,Ryan Cunha,Masculino,45,45-54,Divorciado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2018-12-08,7.6,Dr. Luigi da Mota,CLT,Presencial,Ativo
+128,Kamilly Novais,Masculino,27,25-34,Viúvo,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2022-03-07,4.3,Valentim Correia,CLT,Híbrido,Ativo
+129,Isaque Silveira,Masculino,35,35-44,Viúvo,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-01-10,4.5,Rebeca Novais,CLT,Presencial,Ativo
+130,Renan Ramos,Masculino,30,25-34,Casado,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2016-05-16,10.1,Sra. Melissa Vieira,CLT,Híbrido,Ativo
+131,Caleb da Rocha,Masculino,45,45-54,Divorciado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-05-23,1.1,Nathan Sales,CLT,Presencial,Ativo
+132,Leandro Ribeiro,Masculino,26,25-34,Divorciado,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2023-08-12,2.9,Maria Eduarda Melo,CLT,Presencial,Ativo
+133,Vitória Ferreira,Feminino,44,35-44,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2025-10-16,0.7,Luísa Fogaça,CLT,Presencial,Ativo
+134,Sra. Júlia das Neves,Masculino,45,45-54,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-05-11,5.1,Igor Campos,CLT,Presencial,Inativo
+135,Srta. Luara Campos,Feminino,19,18-24,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2016-11-05,9.7,Dra. Ester Correia,CLT,Presencial,Ativo
+136,Rodrigo da Mota,Feminino,33,25-34,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-09-02,1.8,Dra. Valentina Peixoto,CLT,Híbrido,Ativo
+137,Carlos Eduardo Correia,Masculino,36,35-44,Divorciado,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2021-04-21,5.2,Ian Fonseca,CLT,Presencial,Ativo
+138,Kevin Albuquerque,Feminino,35,35-44,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-06-20,2.0,Dra. Carolina da Mota,CLT,Híbrido,Ativo
+139,Benjamim Novaes,Feminino,41,35-44,Casado,MBA,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-02-19,3.4,Davi Lucas Porto,CLT,Presencial,Ativo
+140,Bella Albuquerque,Feminino,50,45-54,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-01-31,6.4,Larissa Melo,Temporário,Presencial,Ativo
+141,Maysa Fernandes,Masculino,45,45-54,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2025-09-24,0.8,Benjamim da Cunha,CLT,Presencial,Ativo
+142,Bruna Azevedo,Masculino,21,18-24,Casado,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2019-06-25,7.0,Rebeca Barbosa,CLT,Presencial,Inativo
+143,Ana Júlia Cassiano,Feminino,37,35-44,Casado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-01-01,9.5,Kevin Barros,CLT,Presencial,Ativo
+144,Dante Novais,Feminino,32,25-34,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2018-08-03,7.9,Heloisa Vasconcelos,CLT,Presencial,Ativo
+145,Maria Helena Machado,Masculino,43,35-44,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-10-24,6.7,Letícia Pastor,CLT,Presencial,Ativo
+146,Lorena Nunes,Masculino,41,35-44,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-05-14,10.1,Ana Liz Pimenta,Temporário,Presencial,Ativo
+147,Srta. Giovanna Pires,Feminino,22,18-24,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-09-30,4.8,João Ribeiro,CLT,Presencial,Ativo
+148,Emanuel da Costa,Feminino,36,35-44,Solteiro,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-08-05,2.9,Yuri Barbosa,CLT,Presencial,Ativo
+149,Alexandre Jesus,Masculino,48,45-54,Divorciado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2026-04-08,0.2,Olivia da Rocha,CLT,Presencial,Ativo
+150,Igor da Paz,Masculino,32,25-34,Casado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-03-11,10.3,Sra. Mirella Barbosa,CLT,Presencial,Ativo
+151,Isabel da Luz,Masculino,33,25-34,Casado,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-05-07,7.2,Fernanda Lima,CLT,Presencial,Ativo
+152,Yago Câmara,Feminino,48,45-54,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Sim,2017-06-15,9.0,Clarice da Mata,CLT,Presencial,Ativo
+153,Brayan Araújo,Feminino,38,35-44,Casado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2019-03-05,7.3,Leandro Peixoto,CLT,Presencial,Ativo
+154,Dra. Laura Macedo,Masculino,28,25-34,Casado,Pós,Recife,PE,Nordeste,CD Recife,Não,2020-02-02,6.4,Ravi Lucca Sales,CLT,Presencial,Ativo
+155,Nathan da Mata,Feminino,27,25-34,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2021-10-10,4.7,Ágatha Monteiro,CLT,Presencial,Ativo
+156,Anna Liz Peixoto,Feminino,35,35-44,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2017-08-30,8.8,Pedro Sousa,CLT,Presencial,Ativo
+157,Dr. Apollo Borges,Feminino,18,18-24,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-12-02,3.6,Antônio Teixeira,CLT,Híbrido,Inativo
+158,Juliana Oliveira,Feminino,37,35-44,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-12-04,9.6,Erick Melo,Temporário,Presencial,Ativo
+159,Melina da Mota,Masculino,30,25-34,Casado,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2022-02-14,4.4,Pedro Henrique Porto,CLT,Presencial,Ativo
+160,Ayla Melo,Feminino,26,25-34,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2017-10-15,8.7,Dr. Lucas Gabriel Duarte,CLT,Presencial,Ativo
+161,Bella Castro,Masculino,37,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2026-05-20,0.1,Dr. Thales da Paz,CLT,Presencial,Ativo
+162,Maria Liz Teixeira,Feminino,28,25-34,Divorciado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2018-07-13,8.0,Ana Carolina Marques,CLT,Híbrido,Ativo
+163,Levi da Cunha,Feminino,36,35-44,Solteiro,MBA,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-11-20,0.6,Sr. Nathan Moraes,CLT,Presencial,Ativo
+164,Vitor Hugo Martins,Masculino,24,18-24,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2024-10-21,1.7,Ana Júlia Correia,CLT,Presencial,Ativo
+165,Maria Cecília Pinto,Masculino,43,35-44,Divorciado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2022-10-27,3.7,Melina Teixeira,CLT,Presencial,Ativo
+166,Gustavo da Mata,Feminino,38,35-44,Divorciado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-08-07,9.9,Caroline da Paz,CLT,Presencial,Ativo
+167,Raquel Campos,Feminino,23,18-24,Solteiro,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2025-09-28,0.8,Isaque Santos,CLT,Presencial,Ativo
+168,Leonardo Novaes,Masculino,30,25-34,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2025-01-13,1.5,Yuri Jesus,CLT,Presencial,Ativo
+169,Henry Gabriel Camargo,Masculino,37,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2023-05-20,3.1,Bárbara Ramos,CLT,Presencial,Ativo
+170,Theo Silva,Feminino,39,35-44,Solteiro,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2018-08-03,7.9,Thomas Santos,CLT,Presencial,Ativo
+171,Oliver Mendes,Feminino,27,25-34,Casado,Pós,Curitiba,PR,Sul,CD Curitiba,Não,2020-02-26,6.3,Isabelly Marques,CLT,Híbrido,Ativo
+172,Clara Gomes,Feminino,44,35-44,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-10-22,0.7,Thomas Souza,CLT,Presencial,Ativo
+173,Bernardo da Mota,Masculino,18,18-24,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2018-05-01,8.2,Manuela Viana,CLT,Presencial,Ativo
+174,Juliana Abreu,Masculino,42,35-44,Solteiro,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2018-01-08,8.5,Kaique Pastor,CLT,Remoto,Ativo
+175,Rebeca Cassiano,Feminino,18,18-24,Solteiro,Fundamental,Campinas,SP,Sudeste,CD Campinas,Não,2021-07-04,5.0,Zoe Mendes,CLT,Presencial,Ativo
+176,Dr. Yuri Teixeira,Masculino,34,25-34,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2021-07-21,4.9,Maria Flor Marques,CLT,Presencial,Ativo
+177,Sr. Isaque Oliveira,Feminino,21,18-24,Divorciado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-05-07,5.2,Isabel Vasconcelos,CLT,Presencial,Ativo
+178,Ana Clara Dias,Feminino,19,18-24,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2016-05-24,10.1,Sra. Maria Helena Gomes,CLT,Híbrido,Ativo
+179,Clarice Monteiro,Masculino,23,18-24,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2022-01-15,4.5,Davi Lucas Montenegro,CLT,Presencial,Inativo
+180,Luísa Brito,Masculino,48,45-54,Solteiro,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-12-18,6.5,Beatriz Moura,CLT,Presencial,Ativo
+181,Alice Silveira,Feminino,30,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2025-01-17,1.5,Nicolas Rezende,CLT,Presencial,Ativo
+182,Breno Melo,Feminino,18,18-24,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-11-16,4.6,Lucca Pinto,CLT,Presencial,Ativo
+183,Sra. Anna Liz Farias,Masculino,28,25-34,Solteiro,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-03-17,5.3,Yasmin Garcia,CLT,Presencial,Ativo
+184,Dr. Vitor Hugo Andrade,Masculino,40,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2023-10-15,2.7,Ana Lívia da Costa,CLT,Presencial,Ativo
+185,Laura da Conceição,Feminino,43,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Sim,2018-04-20,8.2,Srta. Maya Brito,CLT,Presencial,Ativo
+186,Beatriz Macedo,Masculino,21,18-24,Solteiro,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2019-03-28,7.3,Kaique Alves,CLT,Presencial,Ativo
+187,Luan Vieira,Feminino,30,25-34,Divorciado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-01-09,1.5,Juan Fogaça,CLT,Presencial,Ativo
+188,Dr. Diogo da Cruz,Masculino,27,25-34,Casado,Pós,Recife,PE,Nordeste,CD Recife,Não,2018-10-12,7.7,Maria Sophia Nunes,CLT,Presencial,Ativo
+189,Emilly Cavalcante,Masculino,28,25-34,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2019-11-10,6.6,Bruno Pimenta,CLT,Presencial,Ativo
+190,Isabella Monteiro,Masculino,35,35-44,Divorciado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-05-02,10.2,Cecília da Conceição,CLT,Presencial,Ativo
+191,Jade Marques,Feminino,40,35-44,Solteiro,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-06-22,7.0,Anthony Martins,CLT,Remoto,Ativo
+192,Yago Castro,Masculino,45,45-54,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2021-10-02,4.7,Pedro Miguel Ferreira,CLT,Presencial,Ativo
+193,Letícia Porto,Feminino,34,25-34,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2021-09-30,4.8,Isis Marques,CLT,Presencial,Ativo
+194,Gael Henrique Gomes,Masculino,38,35-44,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2020-01-11,6.5,Bianca da Costa,CLT,Remoto,Ativo
+195,Maria Alice Oliveira,Feminino,41,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2025-12-16,0.5,Juan Almeida,Temporário,Presencial,Ativo
+196,Maria Laura da Mota,Feminino,18,18-24,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2024-08-30,1.8,Benicio Pereira,CLT,Presencial,Ativo
+197,Sra. Laura Vasconcelos,Feminino,44,35-44,Casado,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2018-07-01,8.0,Luiz Gustavo Câmara,CLT,Presencial,Ativo
+198,Esther Pinto,Masculino,40,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Sim,2019-07-25,6.9,Davi Miguel Pires,CLT,Remoto,Ativo
+199,Asafe das Neves,Masculino,33,25-34,Casado,Pós,Curitiba,PR,Sul,CD Curitiba,Não,2020-11-17,5.6,Ana Beatriz Pacheco,CLT,Presencial,Ativo
+200,Sr. Caleb da Rocha,Masculino,39,35-44,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2016-05-23,10.1,Dr. Erick Costa,CLT,Presencial,Ativo
+201,Vitor Hugo Fonseca,Feminino,44,35-44,Viúvo,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2017-08-11,8.9,Sarah da Mata,Temporário,Presencial,Ativo
+202,José Miguel Mendes,Masculino,40,35-44,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Sim,2020-02-23,6.4,Lucca Camargo,CLT,Presencial,Ativo
+203,Ana Vitória Casa Grande,Masculino,32,25-34,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-03-29,4.3,Miguel Novais,CLT,Presencial,Ativo
+204,Sr. Miguel Albuquerque,Masculino,38,35-44,Casado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-07-16,9.0,Vitor Gabriel Campos,CLT,Presencial,Ativo
+205,Maria Eduarda Rocha,Masculino,22,18-24,Casado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2020-01-02,6.5,Dra. Julia Pacheco,CLT,Presencial,Ativo
+206,Maria Fernanda Caldeira,Masculino,40,35-44,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-03-04,7.3,Isabel Melo,CLT,Presencial,Ativo
+207,Luan Pimenta,Feminino,18,18-24,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-04-06,7.2,Benício Porto,CLT,Presencial,Ativo
+208,Liz Rezende,Feminino,53,45-54,Casado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2024-07-10,2.0,Bruna Carvalho,CLT,Presencial,Ativo
+209,Arthur Miguel da Rosa,Masculino,26,25-34,Divorciado,Fundamental,Recife,PE,Nordeste,CD Recife,Sim,2019-03-06,7.3,Bruna Brito,CLT,Presencial,Ativo
+210,Vitor Gabriel Carvalho,Masculino,21,18-24,Divorciado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2016-07-17,10.0,Mirella Freitas,CLT,Presencial,Ativo
+211,Ágatha Leão,Feminino,29,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2020-10-15,5.7,Daniela Leão,Temporário,Presencial,Ativo
+212,Beatriz Mendonça,Masculino,31,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-07-20,7.0,Maria Luísa da Mota,CLT,Presencial,Ativo
+213,Léo Cunha,Masculino,44,35-44,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2019-09-13,6.8,Melina da Costa,CLT,Presencial,Ativo
+214,Sr. Léo Nogueira,Feminino,33,25-34,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-02-16,6.4,Maria Alice Araújo,CLT,Presencial,Ativo
+215,Kamilly Correia,Feminino,30,25-34,Solteiro,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-10-22,2.7,Rafael Borges,CLT,Presencial,Ativo
+216,Hadassa Ramos,Masculino,29,25-34,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Sim,2017-07-03,9.0,Alícia Aragão,CLT,Presencial,Ativo
+217,Sr. Davi Lucas Viana,Feminino,36,35-44,Divorciado,Médio,Recife,PE,Nordeste,CD Recife,Não,2019-12-20,6.5,Gabrielly Azevedo,CLT,Presencial,Ativo
+218,Giovanna Pastor,Masculino,43,35-44,Divorciado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-12-31,2.5,Igor Farias,CLT,Presencial,Ativo
+219,Alexandre da Mota,Masculino,29,25-34,Casado,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2019-12-25,6.5,Davi Lucca Nogueira,CLT,Presencial,Ativo
+220,Erick Camargo,Masculino,34,25-34,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2025-08-12,0.9,Amanda Cardoso,CLT,Presencial,Ativo
+221,Luiz Henrique Vieira,Feminino,30,25-34,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-11-01,2.7,Lorenzo Almeida,CLT,Presencial,Ativo
+222,João Aragão,Masculino,35,35-44,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2016-01-27,10.4,Otto Moura,CLT,Presencial,Ativo
+223,Benício Melo,Masculino,39,35-44,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-09-10,4.8,Maria Cecília Moraes,CLT,Presencial,Ativo
+224,Bianca Machado,Feminino,25,25-34,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-09-30,8.8,Hellena Pimenta,CLT,Presencial,Ativo
+225,Vicente da Rosa,Feminino,26,25-34,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2025-05-01,1.2,Ana Araújo,CLT,Presencial,Ativo
+226,Maria Liz Lima,Feminino,18,18-24,Divorciado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-05-25,5.1,Bianca Mendonça,CLT,Presencial,Ativo
+227,Sra. Ana Sophia Barros,Feminino,53,45-54,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-11-17,0.6,Sr. Benício Cardoso,CLT,Presencial,Ativo
+228,Yan Silva,Masculino,41,35-44,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2020-10-17,5.7,Dr. Vinícius da Rocha,CLT,Híbrido,Inativo
+229,Sofia Pereira,Feminino,39,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-06-07,9.1,Beatriz Vieira,CLT,Presencial,Ativo
+230,Srta. Helena Lopes,Feminino,46,45-54,Solteiro,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2020-06-29,6.0,Heloísa Jesus,CLT,Presencial,Ativo
+231,Dr. Murilo Leão,Feminino,18,18-24,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-05-15,8.1,Srta. Luara Lima,CLT,Presencial,Ativo
+232,Dr. Marcelo Cassiano,Masculino,29,25-34,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-02-13,9.4,Olívia Azevedo,CLT,Presencial,Ativo
+233,Bryan Borges,Masculino,38,35-44,Divorciado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-11-04,5.7,Aylla Souza,CLT,Presencial,Ativo
+234,Sra. Caroline Novais,Feminino,39,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2016-06-25,10.0,Lucas Rios,CLT,Presencial,Ativo
+235,Noah Fogaça,Masculino,37,35-44,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2020-12-25,5.5,Mariana Silveira,CLT,Híbrido,Ativo
+236,João Pedro Peixoto,Feminino,36,35-44,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2025-04-24,1.2,Luiz Gustavo Caldeira,CLT,Presencial,Ativo
+237,Sofia Cunha,Masculino,18,18-24,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2024-10-20,1.7,Rodrigo Câmara,CLT,Híbrido,Ativo
+238,Luiz Fernando Novais,Feminino,47,45-54,Viúvo,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-09-02,5.8,Sr. João Lucas Oliveira,CLT,Presencial,Ativo
+239,Paulo Novais,Feminino,51,45-54,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2024-06-26,2.0,Amanda Pereira,CLT,Presencial,Ativo
+240,Juliana Alves,Masculino,41,35-44,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2026-01-29,0.4,João Gabriel Sampaio,CLT,Presencial,Ativo
+241,Lucca Ferreira,Masculino,26,25-34,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-01-30,1.4,Fernando Casa Grande,CLT,Presencial,Ativo
+242,Maria Liz Azevedo,Feminino,36,35-44,Casado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-03-25,6.3,Arthur Borges,CLT,Presencial,Ativo
+243,Dra. Helena Garcia,Masculino,44,35-44,Divorciado,Pós,Salvador,BA,Nordeste,CD Salvador,Não,2022-03-18,4.3,Mirella Fernandes,CLT,Presencial,Ativo
+244,Léo das Neves,Feminino,51,45-54,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2019-11-11,6.6,Sra. Antonella Aragão,CLT,Presencial,Ativo
+245,Emanuel Sá,Masculino,18,18-24,Solteiro,Pós,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-07-28,8.9,Ana Julia Rocha,CLT,Presencial,Ativo
+246,João Gabriel Macedo,Masculino,46,45-54,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2026-05-14,0.1,Mariana Mendonça,CLT,Presencial,Ativo
+247,Melina Leão,Masculino,29,25-34,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-11-24,5.6,Henrique Sá,CLT,Presencial,Ativo
+248,Bruna Ferreira,Masculino,35,35-44,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-03-08,10.3,Brenda da Paz,Aprendiz,Presencial,Ativo
+249,Raquel Moura,Masculino,45,45-54,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2017-02-21,9.4,Lorena Aparecida,CLT,Presencial,Ativo
+250,Miguel Peixoto,Masculino,30,25-34,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2020-02-15,6.4,André Costela,CLT,Presencial,Ativo
+251,Heitor Vargas,Feminino,43,35-44,Viúvo,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-11-26,3.6,José Miguel da Rocha,CLT,Presencial,Ativo
+252,Sr. André Monteiro,Feminino,30,25-34,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2022-02-09,4.4,Sra. Emanuella Cardoso,Temporário,Presencial,Ativo
+253,Yasmin Santos,Masculino,41,35-44,Solteiro,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2022-08-13,3.9,Theodoro Novais,CLT,Presencial,Ativo
+254,Maria Barbosa,Masculino,43,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2023-06-21,3.0,Ana Cecília Lopes,CLT,Presencial,Ativo
+255,Raul Barbosa,Masculino,37,35-44,Divorciado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2025-11-03,0.7,Dr. Nathan Santos,CLT,Remoto,Ativo
+256,Maria Vitória da Rocha,Feminino,41,35-44,Solteiro,Pós,Recife,PE,Nordeste,CD Recife,Não,2023-09-25,2.8,Nathan Almeida,CLT,Presencial,Ativo
+257,Sr. Raul Sales,Feminino,35,35-44,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2018-08-05,7.9,Sr. Pedro Henrique Caldeira,CLT,Presencial,Ativo
+258,Pedro Henrique Pastor,Feminino,32,25-34,Solteiro,Pós,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-06-26,7.0,Valentina Barros,CLT,Presencial,Ativo
+259,Luana Souza,Feminino,43,35-44,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-05-16,5.1,Sr. Lucas Gabriel Vasconcelos,Temporário,Presencial,Ativo
+260,Breno Moraes,Masculino,24,18-24,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2026-01-18,0.4,Bruna Moura,CLT,Presencial,Ativo
+261,Evelyn Vasconcelos,Masculino,42,35-44,Divorciado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-04-09,4.2,Dr. Diogo da Costa,CLT,Presencial,Ativo
+262,Diogo da Cunha,Masculino,28,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-09-27,7.8,Erick Pereira,CLT,Presencial,Ativo
+263,Breno Cavalcanti,Masculino,38,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-10-17,3.7,Sabrina Martins,CLT,Presencial,Ativo
+264,Melissa Rodrigues,Masculino,36,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Sim,2016-09-26,9.8,Luna Pires,CLT,Presencial,Ativo
+265,Sr. Pedro Lucas Azevedo,Feminino,26,25-34,Solteiro,Pós,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-01-04,6.5,Melina Pires,CLT,Presencial,Ativo
+266,João Guilherme Pastor,Feminino,29,25-34,Solteiro,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2021-04-08,5.2,Luiz Gustavo Montenegro,Aprendiz,Presencial,Ativo
+267,Leonardo Martins,Masculino,47,45-54,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-07-27,3.9,Ana Carolina Araújo,CLT,Presencial,Inativo
+268,Dr. Breno Ramos,Feminino,41,35-44,Solteiro,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-10-09,6.7,Thiago Gomes,Temporário,Presencial,Inativo
+269,Ana Cecília Machado,Masculino,27,25-34,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2024-08-20,1.9,Esther Duarte,CLT,Presencial,Ativo
+270,Olívia Montenegro,Masculino,42,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2024-10-20,1.7,Bento Machado,CLT,Presencial,Ativo
+271,Luigi Silva,Masculino,32,25-34,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2026-04-24,0.2,Thiago Ramos,CLT,Presencial,Ativo
+272,Asafe da Cruz,Feminino,43,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2023-08-01,2.9,Sra. Maysa Moura,CLT,Presencial,Ativo
+273,Eduarda Fonseca,Feminino,36,35-44,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-03-21,5.3,Dr. Mathias Jesus,CLT,Presencial,Ativo
+274,Sr. Lucas Gabriel Azevedo,Masculino,30,25-34,Divorciado,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Não,2022-12-28,3.5,Sr. Matheus da Paz,Temporário,Presencial,Ativo
+275,Dom Farias,Feminino,28,25-34,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2024-07-26,1.9,Diego Ferreira,CLT,Presencial,Ativo
+276,Matteo Cardoso,Feminino,53,45-54,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2022-08-31,3.8,Antonella das Neves,CLT,Presencial,Ativo
+277,Maria Flor Ramos,Feminino,41,35-44,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2023-07-10,3.0,Sr. Vinicius Borges,CLT,Presencial,Ativo
+278,Mariana Moraes,Masculino,29,25-34,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2017-02-04,9.4,Sr. Luiz Miguel das Neves,CLT,Presencial,Ativo
+279,Heitor Fernandes,Feminino,41,35-44,Solteiro,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Não,2021-02-19,5.4,Evelyn Câmara,CLT,Híbrido,Ativo
+280,Eduardo Barbosa,Masculino,31,25-34,Divorciado,Médio,Recife,PE,Nordeste,CD Recife,Não,2024-02-29,2.3,Carlos Eduardo Montenegro,CLT,Presencial,Ativo
+281,Valentina Andrade,Feminino,22,18-24,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2024-12-02,1.6,Maitê Vargas,CLT,Presencial,Ativo
+282,Caroline Peixoto,Masculino,18,18-24,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Sim,2021-04-29,5.2,Daniela Castro,CLT,Presencial,Ativo
+283,Enzo Silveira,Masculino,22,18-24,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-01-21,10.4,Ana Clara Jesus,CLT,Presencial,Ativo
+284,Sr. Pedro Miguel Pimenta,Feminino,28,25-34,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2017-01-30,9.4,Pietro da Conceição,CLT,Presencial,Ativo
+285,Isabella das Neves,Masculino,18,18-24,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2017-10-29,8.7,Evelyn Freitas,CLT,Presencial,Ativo
+286,Maysa Martins,Feminino,46,45-54,Divorciado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2024-03-02,2.3,Mateus Montenegro,CLT,Híbrido,Inativo
+287,Mariah Castro,Masculino,32,25-34,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2019-02-12,7.4,Davi Miguel da Cunha,CLT,Presencial,Inativo
+288,Rodrigo Freitas,Masculino,35,35-44,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-02-08,8.4,Bella Silva,CLT,Presencial,Ativo
+289,Camila da Paz,Feminino,25,25-34,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Sim,2026-01-29,0.4,Enrico da Mata,CLT,Presencial,Ativo
+290,Sophie Casa Grande,Masculino,36,35-44,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2021-04-02,5.2,Ayla Câmara,CLT,Presencial,Ativo
+291,Marcela Alves,Feminino,20,18-24,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2018-06-25,8.0,Ana Júlia Gonçalves,CLT,Híbrido,Ativo
+292,Maria Fernanda da Costa,Masculino,30,25-34,Casado,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2026-03-07,0.3,Anna Liz Freitas,CLT,Híbrido,Ativo
+293,Arthur Dias,Feminino,24,18-24,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-10-10,9.7,Lucas Gabriel Vieira,CLT,Presencial,Ativo
+294,Davi Miguel Andrade,Feminino,42,35-44,Viúvo,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2019-02-06,7.4,Ravy Sampaio,CLT,Presencial,Ativo
+295,Ravy Machado,Masculino,31,25-34,Solteiro,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-06-14,10.1,Alana Barros,CLT,Presencial,Inativo
+296,José Miguel Cunha,Masculino,24,18-24,Divorciado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-09-04,2.8,Yan Siqueira,CLT,Presencial,Ativo
+297,Vitória Lima,Masculino,22,18-24,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-07-16,6.0,João Pedro da Costa,CLT,Presencial,Ativo
+298,Davi Aragão,Feminino,30,25-34,Casado,Fundamental,Campinas,SP,Sudeste,CD Campinas,Não,2023-12-27,2.5,Otto Porto,CLT,Presencial,Ativo
+299,Natália Azevedo,Masculino,35,35-44,Viúvo,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2023-10-07,2.7,Theo Peixoto,CLT,Presencial,Ativo
+300,Allana Pires,Masculino,30,25-34,Divorciado,Superior,Recife,PE,Nordeste,CD Recife,Não,2019-02-25,7.4,Isabella Silva,CLT,Presencial,Ativo
+301,João Vitor Lima,Feminino,34,25-34,Solteiro,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-11-21,9.6,Luiz Gustavo da Costa,CLT,Presencial,Ativo
+302,Maria Vitória Cirino,Feminino,37,35-44,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2017-08-27,8.8,Antonella Moura,CLT,Presencial,Ativo
+303,Sr. Vinicius Nogueira,Masculino,40,35-44,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-05-11,4.1,Sofia Novaes,CLT,Presencial,Ativo
+304,Mathias Melo,Masculino,38,35-44,Solteiro,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-02-18,5.4,Mathias Freitas,CLT,Presencial,Ativo
+305,Antony Fogaça,Feminino,38,35-44,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2024-12-08,1.6,Luiz Felipe da Costa,CLT,Presencial,Ativo
+306,Dra. Bella Vargas,Feminino,51,45-54,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2018-12-16,7.5,Lívia Carvalho,CLT,Presencial,Ativo
+307,Luiz Gustavo Nogueira,Feminino,22,18-24,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Sim,2018-05-14,8.1,Sr. Ravi Sampaio,CLT,Presencial,Inativo
+308,Emilly Carvalho,Feminino,27,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2021-07-18,5.0,Raul Andrade,CLT,Presencial,Ativo
+309,Guilherme Aparecida,Feminino,33,25-34,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2018-06-23,8.0,Asafe Dias,CLT,Presencial,Ativo
+310,Théo Gonçalves,Masculino,36,35-44,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-12-27,3.5,Olívia da Cunha,CLT,Presencial,Ativo
+311,Gabriel da Paz,Masculino,35,35-44,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2026-02-05,0.4,Sr. Lucas da Mata,CLT,Presencial,Ativo
+312,Léo Lopes,Masculino,45,45-54,Divorciado,Pós,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-04-29,8.2,Maysa Gomes,CLT,Presencial,Ativo
+313,Sr. Theo Sales,Feminino,18,18-24,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-02-28,6.3,Maria Eduarda Moreira,CLT,Presencial,Inativo
+314,Bryan Siqueira,Feminino,30,25-34,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2024-10-08,1.7,Anna Liz Lopes,CLT,Presencial,Ativo
+315,Emilly Nogueira,Feminino,31,25-34,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2021-04-23,5.2,Lorenzo Caldeira,CLT,Híbrido,Ativo
+316,Luan Ribeiro,Masculino,40,35-44,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-09-30,5.8,Leandro Machado,CLT,Presencial,Ativo
+317,Mariane Cavalcante,Masculino,35,35-44,Casado,Pós,Curitiba,PR,Sul,CD Curitiba,Não,2022-10-04,3.7,Sra. Marcela Machado,CLT,Presencial,Inativo
+318,Luiz Gustavo Pimenta,Feminino,38,35-44,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2023-07-22,2.9,Kamilly Porto,CLT,Híbrido,Ativo
+319,Breno Rios,Masculino,41,35-44,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2017-03-11,9.3,Maria Luiza Fonseca,CLT,Híbrido,Ativo
+320,Eduarda Alves,Masculino,30,25-34,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2017-06-28,9.0,Pedro Lucas Andrade,CLT,Presencial,Ativo
+321,Bernardo da Costa,Masculino,36,35-44,Divorciado,Superior,Curitiba,PR,Sul,CD Curitiba,Sim,2020-05-29,6.1,Maria Clara Fonseca,CLT,Presencial,Ativo
+322,Ana Beatriz Pereira,Masculino,48,45-54,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-03-11,3.3,Rael Freitas,CLT,Presencial,Inativo
+323,Dr. Breno Oliveira,Feminino,33,25-34,Solteiro,MBA,Recife,PE,Nordeste,CD Recife,Não,2018-07-12,8.0,Vinícius Fonseca,CLT,Presencial,Ativo
+324,Luara Rezende,Masculino,34,25-34,Divorciado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-01-28,3.4,Josué Camargo,CLT,Presencial,Ativo
+325,Francisco Monteiro,Feminino,30,25-34,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2024-10-28,1.7,Maria Julia Novais,CLT,Presencial,Ativo
+326,João Vasconcelos,Feminino,32,25-34,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-11-07,5.6,Pietro Cunha,CLT,Presencial,Inativo
+327,Laura Sales,Masculino,37,35-44,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2024-07-26,1.9,Gabriela Campos,CLT,Presencial,Ativo
+328,Brayan Machado,Feminino,46,45-54,Casado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-03-31,6.3,Pedro Miguel Borges,CLT,Presencial,Ativo
+329,Luiza Rios,Masculino,44,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-02-12,6.4,Sr. Yan Nogueira,CLT,Presencial,Ativo
+330,Kaique Castro,Feminino,44,35-44,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2019-01-01,7.5,Dra. Emanuella Vieira,Aprendiz,Presencial,Ativo
+331,Sr. Davi Costa,Masculino,46,45-54,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2024-09-17,1.8,Isaac Vieira,CLT,Presencial,Ativo
+332,Amanda Fonseca,Masculino,38,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2019-07-08,7.0,Maria Eduarda Martins,Temporário,Híbrido,Ativo
+333,Caroline Pimenta,Masculino,32,25-34,Solteiro,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-07-06,6.0,Benício das Neves,CLT,Híbrido,Ativo
+334,Pietra Moura,Masculino,39,35-44,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2022-01-23,4.4,Maria Luísa Oliveira,CLT,Presencial,Ativo
+335,Davi Lucas Dias,Feminino,27,25-34,Casado,MBA,Recife,PE,Nordeste,CD Recife,Não,2020-09-06,5.8,Ana Sophia Machado,CLT,Presencial,Ativo
+336,Stella Ferreira,Feminino,22,18-24,Solteiro,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2026-03-03,0.3,Yuri Porto,CLT,Presencial,Ativo
+337,Emilly Vargas,Feminino,51,45-54,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2016-08-17,9.9,Pedro Montenegro,CLT,Presencial,Ativo
+338,Davi Moreira,Masculino,48,45-54,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2023-11-07,2.6,Kevin Cavalcante,CLT,Presencial,Ativo
+339,Lorenzo Santos,Masculino,23,18-24,Divorciado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2017-10-29,8.7,Luiz Felipe Moreira,CLT,Presencial,Ativo
+340,Bruno da Cunha,Masculino,29,25-34,Casado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2017-09-07,8.8,Yuri da Mota,CLT,Presencial,Ativo
+341,Kevin Pimenta,Masculino,33,25-34,Solteiro,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2021-03-24,5.3,Ayla Montenegro,CLT,Presencial,Ativo
+342,Eloá Pastor,Feminino,26,25-34,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2018-12-10,7.6,Daniela Cavalcante,CLT,Presencial,Ativo
+343,Maitê Nunes,Masculino,35,35-44,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-09-30,3.8,Arthur Barros,CLT,Presencial,Ativo
+344,João Rezende,Masculino,50,45-54,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-08-23,6.9,Oliver Pinto,CLT,Presencial,Ativo
+345,Ana Monteiro,Masculino,30,25-34,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-05-23,6.1,Ísis da Rocha,CLT,Presencial,Ativo
+346,Liz Mendes,Feminino,37,35-44,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2023-01-03,3.5,Nathan da Rosa,CLT,Presencial,Ativo
+347,Ana Sophia Sales,Feminino,25,25-34,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2026-01-20,0.4,Emanuel Macedo,CLT,Presencial,Ativo
+348,Rafaela Martins,Masculino,21,18-24,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-03-15,9.3,Luigi Pereira,CLT,Presencial,Ativo
+349,Levi Silva,Feminino,47,45-54,Casado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2024-06-08,2.1,Dr. Murilo Cardoso,CLT,Presencial,Ativo
+350,Sr. Liam da Costa,Masculino,45,45-54,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2017-01-21,9.4,Camila da Mata,CLT,Presencial,Ativo
+351,Isadora Casa Grande,Masculino,25,25-34,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-02-22,1.4,Benicio da Rocha,CLT,Presencial,Ativo
+352,Mariah da Cruz,Masculino,34,25-34,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2017-07-06,9.0,Luan Oliveira,CLT,Presencial,Ativo
+353,Sra. Esther Teixeira,Feminino,48,45-54,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-06-25,9.0,Theo Moraes,CLT,Presencial,Ativo
+354,Sara das Neves,Feminino,42,35-44,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-01-16,1.5,Alícia Borges,CLT,Presencial,Ativo
+355,Sofia Marques,Masculino,23,18-24,Casado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2021-11-21,4.6,Henrique Pacheco,CLT,Presencial,Inativo
+356,Sr. Benicio da Paz,Feminino,24,18-24,Solteiro,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-02-12,3.4,Olivia da Paz,CLT,Presencial,Ativo
+357,Alexia Caldeira,Feminino,27,25-34,Divorciado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-01-13,6.5,Catarina da Luz,CLT,Presencial,Ativo
+358,Sra. Maria Luiza Fonseca,Masculino,47,45-54,Casado,Pós,Recife,PE,Nordeste,CD Recife,Sim,2018-11-11,7.6,Murilo Aragão,CLT,Presencial,Ativo
+359,Evelyn Fonseca,Feminino,28,25-34,Solteiro,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2023-08-18,2.9,Laura Barbosa,CLT,Presencial,Inativo
+360,Sofia Machado,Feminino,45,45-54,Divorciado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2017-03-20,9.3,Lara Pinto,CLT,Presencial,Ativo
+361,Bárbara Cardoso,Feminino,43,35-44,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2019-11-25,6.6,Matteo Freitas,CLT,Presencial,Ativo
+362,Dr. Diego Costa,Feminino,23,18-24,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-06-08,8.1,Sophia Guerra,CLT,Presencial,Ativo
+363,Ana Cecília Aparecida,Feminino,40,35-44,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-06-28,1.0,Davi Miguel Silva,CLT,Presencial,Ativo
+364,Dr. Valentim Marques,Feminino,44,35-44,Solteiro,Técnico,Recife,PE,Nordeste,CD Recife,Não,2021-12-14,4.5,Théo Carvalho,CLT,Presencial,Ativo
+365,Dr. Enrico Gonçalves,Masculino,26,25-34,Solteiro,MBA,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-09-14,4.8,Letícia Pastor,CLT,Presencial,Ativo
+366,Dr. Kaique Melo,Masculino,32,25-34,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2020-08-19,5.9,Léo Farias,Aprendiz,Presencial,Ativo
+367,Brenda Leão,Feminino,42,35-44,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2024-09-21,1.8,Lorena Vieira,CLT,Presencial,Ativo
+368,Dra. Amanda Peixoto,Feminino,33,25-34,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2025-04-30,1.2,Julia Rezende,CLT,Presencial,Ativo
+369,Heloísa Silveira,Feminino,27,25-34,Solteiro,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2024-06-19,2.0,Rhavi Cavalcante,CLT,Presencial,Ativo
+370,Maria Helena Casa Grande,Masculino,37,35-44,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2024-02-18,2.4,Isabelly Andrade,CLT,Presencial,Ativo
+371,Brenda Correia,Feminino,18,18-24,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-03-26,10.3,Pedro Lucas Dias,CLT,Presencial,Ativo
+372,Clarice Jesus,Masculino,45,45-54,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-10-16,5.7,Srta. Maria Sophia Montenegro,CLT,Presencial,Ativo
+373,Olivia Sousa,Feminino,37,35-44,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-08-26,2.8,Srta. Cecilia Moreira,CLT,Presencial,Ativo
+374,Luan Ribeiro,Feminino,39,35-44,Viúvo,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-06-05,5.1,Valentina Garcia,CLT,Presencial,Ativo
+375,Sr. Raul Nascimento,Feminino,40,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-03-29,9.3,Dr. João Pimenta,Temporário,Presencial,Ativo
+376,Evelyn da Cruz,Feminino,31,25-34,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-08-02,8.9,Kaique Câmara,CLT,Presencial,Ativo
+377,João Pedro Santos,Masculino,48,45-54,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2025-07-19,1.0,Samuel Dias,CLT,Presencial,Inativo
+378,Marcela Novais,Masculino,41,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2021-05-27,5.1,Sra. Laura Campos,CLT,Presencial,Ativo
+379,Ísis Garcia,Masculino,46,45-54,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2019-09-03,6.8,Manuella Vargas,CLT,Remoto,Ativo
+380,João Vitor Aparecida,Masculino,25,25-34,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2017-08-08,8.9,Bruno Ferreira,CLT,Presencial,Inativo
+381,Jade Souza,Feminino,39,35-44,Solteiro,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2025-12-12,0.6,Hadassa Costa,CLT,Presencial,Ativo
+382,Júlia Novais,Feminino,32,25-34,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-03-12,10.3,Sra. Cecilia Caldeira,CLT,Híbrido,Ativo
+383,Isabella da Cruz,Feminino,22,18-24,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2023-03-16,3.3,Vinícius Câmara,CLT,Presencial,Ativo
+384,Isabel Aragão,Masculino,39,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2023-12-06,2.6,Noah Farias,CLT,Presencial,Ativo
+385,Sra. Beatriz Rodrigues,Masculino,42,35-44,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-10-19,6.7,André Novaes,CLT,Presencial,Ativo
+386,Nicolas Rezende,Feminino,31,25-34,Solteiro,MBA,Curitiba,PR,Sul,CD Curitiba,Não,2021-08-08,4.9,Pietra Rezende,CLT,Presencial,Ativo
+387,João Pedro Duarte,Feminino,23,18-24,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2019-06-05,7.1,Bento Vargas,CLT,Presencial,Ativo
+388,Igor Nascimento,Masculino,18,18-24,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-02-12,3.4,Dra. Ana Carolina Cavalcanti,CLT,Presencial,Ativo
+389,Emanuelly Andrade,Feminino,31,25-34,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2023-01-16,3.5,Sabrina Cirino,CLT,Presencial,Ativo
+390,Sra. Ana Carolina Albuquerque,Masculino,24,18-24,Divorciado,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-10-01,1.7,Cauê Farias,CLT,Presencial,Ativo
+391,Rafael Ramos,Masculino,29,25-34,Divorciado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2022-01-05,4.5,Valentina Monteiro,CLT,Presencial,Ativo
+392,Thiago Martins,Masculino,31,25-34,Divorciado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-03-02,1.3,Gael Camargo,CLT,Presencial,Inativo
+393,Sr. Raul Ramos,Feminino,38,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-07-22,4.9,Francisco Albuquerque,CLT,Presencial,Ativo
+394,Sra. Laís Nunes,Masculino,41,35-44,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2016-11-26,9.6,Evelyn Cavalcanti,CLT,Presencial,Ativo
+395,Maria Luiza Lima,Feminino,45,45-54,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2022-12-08,3.6,Lunna Borges,CLT,Presencial,Ativo
+396,Aylla Cirino,Feminino,20,18-24,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-07-17,3.0,Rhavi Duarte,CLT,Híbrido,Ativo
+397,André da Luz,Masculino,61,55+,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-08-06,5.9,Isabela Machado,CLT,Presencial,Ativo
+398,Lucas da Rosa,Masculino,38,35-44,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-11-11,0.6,Alexia da Luz,CLT,Presencial,Ativo
+399,Maria Cecília Sales,Masculino,46,45-54,Divorciado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2024-08-27,1.8,Bento Rios,CLT,Presencial,Ativo
+400,Ravi Lucca das Neves,Feminino,38,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2019-04-03,7.2,Nathan Rodrigues,CLT,Presencial,Ativo
+401,Luana Sales,Feminino,24,18-24,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2023-04-24,3.2,Juan Freitas,CLT,Presencial,Ativo
+402,Hellena Câmara,Masculino,32,25-34,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2022-01-14,4.5,Rhavi Cassiano,CLT,Presencial,Ativo
+403,Maria Fernanda Leão,Feminino,31,25-34,Casado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2021-12-03,4.6,Dra. Olivia Sá,CLT,Presencial,Ativo
+404,Helena Teixeira,Feminino,32,25-34,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2021-05-17,5.1,Bruno Moura,CLT,Presencial,Ativo
+405,Vitória Santos,Masculino,26,25-34,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2023-10-24,2.7,Sr. Daniel Araújo,CLT,Presencial,Ativo
+406,Sofia Costa,Masculino,36,35-44,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2017-06-14,9.1,Zoe Cassiano,CLT,Presencial,Ativo
+407,Luan Moreira,Feminino,24,18-24,Solteiro,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-04-21,5.2,Bruna Rodrigues,Temporário,Híbrido,Ativo
+408,Samuel Borges,Feminino,28,25-34,Divorciado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-09-16,0.8,Melissa Araújo,CLT,Presencial,Ativo
+409,Caroline Moraes,Masculino,43,35-44,Solteiro,Técnico,Salvador,BA,Nordeste,CD Salvador,Sim,2023-08-25,2.9,Mirella Nunes,CLT,Presencial,Ativo
+410,Ravi Rocha,Masculino,43,35-44,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2019-08-22,6.9,Antônio Gonçalves,Temporário,Presencial,Ativo
+411,Alexandre Souza,Masculino,38,35-44,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2017-10-06,8.7,Brayan Aparecida,CLT,Presencial,Ativo
+412,Manuella Sampaio,Masculino,40,35-44,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2019-12-06,6.6,Vitor Hugo Araújo,CLT,Presencial,Ativo
+413,Ravy Andrade,Masculino,34,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-06-02,6.1,Nicolas Cirino,CLT,Presencial,Ativo
+414,Otto Freitas,Masculino,44,35-44,Solteiro,MBA,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-09-29,4.8,Melissa Garcia,CLT,Presencial,Ativo
+415,Anna Liz Rodrigues,Feminino,30,25-34,Solteiro,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2017-06-05,9.1,Ágatha Carvalho,Aprendiz,Híbrido,Ativo
+416,Marcela Campos,Feminino,28,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-05-19,8.1,Vitor Gabriel Gonçalves,CLT,Presencial,Ativo
+417,Carolina Siqueira,Masculino,32,25-34,Viúvo,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-08-03,5.9,Alexandre Sá,CLT,Presencial,Ativo
+418,Kaique Martins,Masculino,29,25-34,Casado,Pós,Curitiba,PR,Sul,CD Curitiba,Sim,2025-05-15,1.1,Ísis Lima,CLT,Presencial,Ativo
+419,Maria Helena da Conceição,Feminino,36,35-44,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-05-18,5.1,Raul Ferreira,CLT,Presencial,Ativo
+420,João Guilherme Correia,Masculino,33,25-34,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-06-16,9.0,Srta. Ana Beatriz Ribeiro,CLT,Presencial,Inativo
+421,Allana da Costa,Masculino,26,25-34,Casado,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-02-26,1.3,Bernardo Brito,CLT,Presencial,Ativo
+422,Ana Beatriz Machado,Masculino,33,25-34,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-11-23,7.6,Ana Julia da Cruz,CLT,Presencial,Inativo
+423,Srta. Maria Liz Macedo,Masculino,33,25-34,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2025-06-15,1.0,Vitor Hugo Cunha,CLT,Presencial,Ativo
+424,Davi Miguel Montenegro,Feminino,30,25-34,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2022-09-09,3.8,Igor Siqueira,CLT,Presencial,Ativo
+425,Luiza Oliveira,Masculino,30,25-34,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-04-20,10.2,Luna da Costa,CLT,Presencial,Ativo
+426,Diego Ribeiro,Feminino,40,35-44,Casado,Fundamental,Recife,PE,Nordeste,CD Recife,Não,2017-07-21,9.0,Hellena Jesus,CLT,Presencial,Ativo
+427,João Guilherme Araújo,Masculino,30,25-34,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2016-11-21,9.6,Emanuella Pires,CLT,Presencial,Inativo
+428,Mariane Novais,Feminino,37,35-44,Casado,Fundamental,Campinas,SP,Sudeste,CD Campinas,Não,2018-08-09,7.9,Ana Julia Ferreira,CLT,Presencial,Ativo
+429,Maria Helena Viana,Feminino,41,35-44,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2016-08-08,9.9,Luiza Sampaio,Aprendiz,Presencial,Ativo
+430,Maria Luísa Cassiano,Masculino,32,25-34,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2024-03-22,2.3,Marcos Vinicius Cirino,CLT,Presencial,Ativo
+431,Olívia da Costa,Masculino,55,55+,Divorciado,MBA,Salvador,BA,Nordeste,CD Salvador,Não,2021-07-03,5.0,Kaique Santos,CLT,Presencial,Ativo
+432,Ravi Araújo,Feminino,45,45-54,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2017-12-03,8.6,Maria Sophia Leão,CLT,Presencial,Inativo
+433,Vitória Carvalho,Masculino,25,25-34,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2016-01-25,10.4,Isabelly da Cunha,CLT,Presencial,Ativo
+434,Lucas Ramos,Feminino,43,35-44,Solteiro,MBA,Curitiba,PR,Sul,CD Curitiba,Não,2022-08-21,3.9,Rael Freitas,CLT,Presencial,Ativo
+435,Vitor Gabriel Silveira,Feminino,31,25-34,Solteiro,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2019-06-07,7.1,Benjamim da Mata,CLT,Presencial,Ativo
+436,Ana Cecília Barbosa,Feminino,40,35-44,Solteiro,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2018-03-17,8.3,Henrique Mendes,CLT,Presencial,Ativo
+437,Lucas Gabriel da Rosa,Feminino,34,25-34,Divorciado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-03-05,6.3,Heitor Correia,CLT,Presencial,Ativo
+438,Srta. Pietra da Cruz,Feminino,34,25-34,Divorciado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-02-15,8.4,Dra. Gabrielly Gonçalves,CLT,Presencial,Ativo
+439,Yuri Duarte,Feminino,46,45-54,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-02-21,1.4,Mateus Martins,CLT,Presencial,Inativo
+440,Maria Alice das Neves,Feminino,21,18-24,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2020-04-02,6.2,Luiz Miguel Moraes,CLT,Presencial,Ativo
+441,Nina Brito,Masculino,43,35-44,Solteiro,Pós,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2024-07-29,1.9,Sra. Luiza Costela,Temporário,Presencial,Ativo
+442,Dr. Noah Aparecida,Masculino,39,35-44,Solteiro,Pós,Recife,PE,Nordeste,CD Recife,Sim,2021-07-13,5.0,Hellena Sousa,CLT,Híbrido,Ativo
+443,Antony da Luz,Masculino,27,25-34,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2019-05-02,7.2,Maria Vitória da Rocha,Temporário,Presencial,Ativo
+444,Gael Henrique Farias,Masculino,25,25-34,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-02-13,10.4,Mateus Nunes,CLT,Presencial,Ativo
+445,Theo Novaes,Masculino,44,35-44,Solteiro,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-08-31,7.8,Maitê da Cunha,CLT,Presencial,Ativo
+446,Rebeca Marques,Masculino,31,25-34,Casado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2021-08-19,4.9,Luiz Gustavo Cavalcante,CLT,Presencial,Ativo
+447,Yago Mendonça,Masculino,22,18-24,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2020-05-17,6.1,Vitor Hugo Ramos,CLT,Presencial,Ativo
+448,Vinicius Andrade,Masculino,37,35-44,Divorciado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-12-06,0.6,Benicio Teixeira,CLT,Presencial,Ativo
+449,Noah Carvalho,Feminino,26,25-34,Divorciado,Fundamental,Campinas,SP,Sudeste,CD Campinas,Não,2022-05-26,4.1,Isabel Azevedo,CLT,Presencial,Ativo
+450,Srta. Alexia Cunha,Masculino,41,35-44,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-12-07,0.6,Mirella Freitas,CLT,Presencial,Ativo
+451,Rodrigo Ribeiro,Feminino,46,45-54,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2021-11-23,4.6,Allana Abreu,CLT,Presencial,Ativo
+452,Maria Sophia Albuquerque,Masculino,29,25-34,Solteiro,Superior,Curitiba,PR,Sul,CD Curitiba,Sim,2018-01-19,8.5,Vinícius Silveira,CLT,Presencial,Ativo
+453,Vitor Gabriel da Paz,Feminino,40,35-44,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2022-04-10,4.2,Theodoro Sampaio,CLT,Presencial,Ativo
+454,Marina Cavalcanti,Feminino,42,35-44,Divorciado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Sim,2025-12-10,0.6,Calebe Moura,CLT,Presencial,Ativo
+455,Isaque Correia,Feminino,41,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2020-08-06,5.9,Valentina da Cunha,CLT,Presencial,Ativo
+456,Dr. Miguel Barros,Masculino,25,25-34,Solteiro,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2019-03-30,7.3,Dr. Raul Nunes,CLT,Presencial,Ativo
+457,Henry Gabriel da Rosa,Feminino,39,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2017-01-10,9.5,Anna Liz Rezende,CLT,Presencial,Ativo
+458,Ana Beatriz Borges,Masculino,36,35-44,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-06-13,8.1,Maria Helena Garcia,CLT,Presencial,Ativo
+459,Olívia Araújo,Masculino,33,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-02-08,3.4,Alexia Sampaio,CLT,Híbrido,Ativo
+460,Bryan Monteiro,Masculino,37,35-44,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2020-07-29,5.9,Luísa Nunes,CLT,Presencial,Ativo
+461,Vinícius Aparecida,Masculino,44,35-44,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-01-19,2.4,Heitor Sales,CLT,Presencial,Ativo
+462,Olívia da Mata,Feminino,32,25-34,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-08-05,2.9,Breno Rodrigues,CLT,Presencial,Ativo
+463,Yago Nunes,Masculino,31,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2017-04-09,9.2,Ana Beatriz Cavalcanti,CLT,Presencial,Ativo
+464,Sr. Gustavo Henrique Pastor,Masculino,45,45-54,Divorciado,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-07-11,9.0,Miguel Barbosa,CLT,Presencial,Inativo
+465,Enrico Nunes,Feminino,33,25-34,Solteiro,Pós,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-06-06,5.1,Mathias Rocha,CLT,Presencial,Inativo
+466,Luísa Gomes,Feminino,39,35-44,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-02-07,3.4,Srta. Anna Liz Montenegro,CLT,Presencial,Ativo
+467,Sra. Ana Júlia Brito,Feminino,18,18-24,Solteiro,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2017-11-20,8.6,Isabel Barbosa,CLT,Presencial,Ativo
+468,Dr. Luan Alves,Feminino,39,35-44,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2024-10-31,1.7,Júlia Viana,CLT,Presencial,Ativo
+469,Rebeca da Conceição,Masculino,35,35-44,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2023-08-20,2.9,Dr. Pedro Cirino,CLT,Presencial,Ativo
+470,Maria Helena Barros,Feminino,31,25-34,Casado,Pós,Recife,PE,Nordeste,CD Recife,Não,2021-07-07,5.0,Laís da Cruz,CLT,Presencial,Ativo
+471,Srta. Antonella da Mata,Feminino,18,18-24,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-05-20,1.1,Mateus Silva,CLT,Presencial,Ativo
+472,Daniela Sousa,Masculino,27,25-34,Divorciado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-07-23,8.9,Luiza Fonseca,CLT,Presencial,Ativo
+473,Caleb Abreu,Masculino,25,25-34,Solteiro,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2019-08-02,6.9,Pedro Miguel Fonseca,CLT,Presencial,Inativo
+474,Cauã Cardoso,Masculino,37,35-44,Solteiro,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2016-12-01,9.6,Francisco Lopes,Aprendiz,Presencial,Ativo
+475,Sophie Jesus,Feminino,32,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-09-26,9.8,Apollo Borges,CLT,Presencial,Ativo
+476,Sr. Luan Gomes,Feminino,18,18-24,Viúvo,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-11-20,0.6,João Vitor Jesus,CLT,Presencial,Ativo
+477,Antonella Silveira,Feminino,26,25-34,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2022-08-12,3.9,Isabelly Oliveira,CLT,Presencial,Ativo
+478,Eloá Rodrigues,Feminino,25,25-34,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-11-12,0.6,Eloá Carvalho,CLT,Presencial,Ativo
+479,Kevin da Mata,Masculino,37,35-44,Divorciado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2018-02-17,8.4,Clara Azevedo,Temporário,Presencial,Ativo
+480,Pedro Henrique da Mota,Masculino,32,25-34,Casado,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-09-30,6.8,Letícia Mendes,CLT,Presencial,Ativo
+481,Luiz Miguel da Cunha,Masculino,44,35-44,Solteiro,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2024-08-18,1.9,Thales Peixoto,CLT,Híbrido,Ativo
+482,Fernanda Marques,Feminino,27,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2023-12-04,2.6,Davi Luiz da Rosa,CLT,Presencial,Ativo
+483,Miguel Farias,Masculino,33,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Sim,2021-08-18,4.9,Maria Helena Farias,CLT,Presencial,Ativo
+484,Lívia Lopes,Masculino,45,45-54,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2018-06-05,8.1,Catarina da Rosa,CLT,Presencial,Inativo
+485,Sr. Rhavi Dias,Masculino,36,35-44,Casado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2025-07-27,0.9,Miguel Dias,CLT,Presencial,Ativo
+486,Samuel Oliveira,Masculino,59,55+,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2018-12-04,7.6,Luan Garcia,CLT,Presencial,Ativo
+487,Matteo Fonseca,Masculino,29,25-34,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-02-01,10.4,Guilherme Pastor,CLT,Presencial,Inativo
+488,Emilly Rodrigues,Feminino,20,18-24,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-12-13,5.6,Amanda Siqueira,CLT,Presencial,Ativo
+489,Giovanna Macedo,Masculino,57,55+,Solteiro,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2026-04-19,0.2,Bernardo Vieira,CLT,Presencial,Ativo
+490,Sara Carvalho,Feminino,39,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-06-13,5.1,Liz da Costa,CLT,Presencial,Ativo
+491,Eduardo Silva,Masculino,50,45-54,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-10-17,5.7,Maria Flor Barbosa,CLT,Presencial,Ativo
+492,Pietra Pacheco,Masculino,42,35-44,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2025-09-30,0.8,Yasmin Montenegro,CLT,Presencial,Ativo
+493,Sra. Ísis Andrade,Feminino,18,18-24,Casado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2021-07-27,4.9,Sr. Cauê Vargas,CLT,Presencial,Ativo
+494,Luiz Gustavo Cavalcante,Feminino,57,55+,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2020-06-08,6.1,Ana Clara Nunes,CLT,Presencial,Ativo
+495,Maria Liz Sá,Masculino,35,35-44,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-04-03,9.2,Dr. Cauê Albuquerque,CLT,Presencial,Ativo
+496,José Pedro Câmara,Feminino,28,25-34,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-12-17,3.5,Stella Novais,CLT,Presencial,Ativo
+497,Hellena Machado,Feminino,35,35-44,Casado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Sim,2025-11-17,0.6,Dr. Ravi Vargas,CLT,Presencial,Ativo
+498,Sarah Cassiano,Masculino,37,35-44,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-08-19,6.9,Sr. Rodrigo Caldeira,Temporário,Presencial,Ativo
+499,Oliver Barros,Feminino,50,45-54,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-04-02,6.2,Diego Ferreira,CLT,Presencial,Ativo
+500,Luigi Marques,Feminino,40,35-44,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-03-10,2.3,Vicente Mendes,CLT,Híbrido,Ativo
+501,Dr. Calebe Macedo,Masculino,39,35-44,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2025-01-20,1.4,Dra. Milena Dias,CLT,Presencial,Ativo
+502,Kaique Aparecida,Masculino,28,25-34,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-08-31,0.8,Srta. Alícia Fernandes,Temporário,Presencial,Ativo
+503,Bianca Rocha,Feminino,45,45-54,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2017-06-23,9.0,Joaquim Moreira,CLT,Presencial,Ativo
+504,Yuri Castro,Masculino,43,35-44,Casado,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-02-18,1.4,Dr. Ravi da Conceição,CLT,Presencial,Ativo
+505,Ester Cirino,Masculino,34,25-34,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2026-03-21,0.3,Marina Gonçalves,CLT,Presencial,Ativo
+506,Gael Henrique Machado,Feminino,29,25-34,Divorciado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2019-11-22,6.6,Mariane Gomes,CLT,Presencial,Ativo
+507,Heitor Costela,Masculino,27,25-34,Casado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-02-08,5.4,Benício Oliveira,CLT,Presencial,Ativo
+508,Vitor Gabriel Cirino,Masculino,48,45-54,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2022-09-17,3.8,Dr. Gael Henrique Marques,CLT,Presencial,Ativo
+509,João Rios,Masculino,30,25-34,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2020-09-10,5.8,Vitória Porto,CLT,Presencial,Ativo
+510,Dr. Matteo Pastor,Feminino,47,45-54,Divorciado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2025-05-20,1.1,Luiz Fernando Fogaça,CLT,Presencial,Ativo
+511,Emanuella Rocha,Masculino,39,35-44,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2017-09-16,8.8,Sra. Antonella Rocha,CLT,Híbrido,Ativo
+512,Levi Campos,Feminino,29,25-34,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2021-06-05,5.1,Leandro Camargo,CLT,Híbrido,Ativo
+513,Marcelo Sales,Feminino,31,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2024-06-06,2.1,Thomas Gomes,CLT,Presencial,Ativo
+514,Cecilia Oliveira,Feminino,43,35-44,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2026-05-09,0.1,Mariana Cirino,CLT,Presencial,Ativo
+515,Zoe Sales,Masculino,36,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2020-01-05,6.5,Emanuella Novais,CLT,Presencial,Ativo
+516,Samuel da Paz,Masculino,36,35-44,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2025-07-08,1.0,Francisco Dias,CLT,Presencial,Ativo
+517,Ana Júlia Fogaça,Masculino,27,25-34,Solteiro,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-06-24,3.0,Ryan Carvalho,CLT,Presencial,Ativo
+518,Matheus Novais,Feminino,31,25-34,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2023-12-07,2.6,Sabrina Jesus,CLT,Presencial,Ativo
+519,Rebeca Leão,Feminino,26,25-34,Casado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-06-13,4.1,Sra. Rebeca Cavalcante,CLT,Presencial,Ativo
+520,Arthur Vieira,Masculino,37,35-44,Solteiro,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Sim,2016-12-25,9.5,João Vitor Andrade,CLT,Presencial,Ativo
+521,Henry Gabriel Nascimento,Feminino,38,35-44,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-08-21,9.9,Enzo Gabriel Vasconcelos,CLT,Presencial,Ativo
+522,Sabrina Novaes,Masculino,21,18-24,Viúvo,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-04-11,1.2,Brenda Oliveira,CLT,Presencial,Ativo
+523,João Felipe Vasconcelos,Feminino,33,25-34,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2020-09-17,5.8,Maria Clara Nogueira,CLT,Híbrido,Ativo
+524,Pedro Lucas Nogueira,Masculino,42,35-44,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2025-08-24,0.9,Otávio Caldeira,CLT,Presencial,Ativo
+525,Dra. Isadora da Rosa,Feminino,33,25-34,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-08-24,1.9,Rael da Luz,Temporário,Presencial,Ativo
+526,Sr. Pedro Lucas Campos,Feminino,35,35-44,Divorciado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-05-25,6.1,Gustavo Henrique Sousa,CLT,Presencial,Ativo
+527,Marcela Santos,Feminino,27,25-34,Divorciado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2016-06-09,10.1,Mariane Cavalcante,CLT,Presencial,Ativo
+528,Cecilia Viana,Feminino,39,35-44,Solteiro,Fundamental,Recife,PE,Nordeste,CD Recife,Não,2017-06-11,9.1,Gustavo Araújo,CLT,Presencial,Ativo
+529,Marcela Nascimento,Feminino,45,45-54,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-05-12,10.1,Vitor Gabriel Cavalcante,CLT,Presencial,Ativo
+530,Dr. João Vitor Oliveira,Feminino,31,25-34,Divorciado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-12-14,3.5,Théo Rocha,CLT,Presencial,Ativo
+531,Davi Luiz Sá,Masculino,32,25-34,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-10-06,0.7,Ana Liz da Mota,CLT,Presencial,Ativo
+532,Carolina Sampaio,Feminino,33,25-34,Divorciado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2019-03-18,7.3,Josué Casa Grande,CLT,Presencial,Ativo
+533,Sra. Isadora Teixeira,Feminino,40,35-44,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-01-28,8.4,Maria Júlia Mendonça,CLT,Presencial,Ativo
+534,João Felipe Pires,Feminino,47,45-54,Solteiro,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-07-05,4.0,Maria Flor Machado,CLT,Presencial,Ativo
+535,Caleb Guerra,Feminino,28,25-34,Divorciado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-07-24,4.9,Lara Sales,CLT,Híbrido,Ativo
+536,Dr. Ryan Duarte,Masculino,35,35-44,Casado,MBA,Recife,PE,Nordeste,CD Recife,Não,2018-02-22,8.4,Agatha Vasconcelos,CLT,Presencial,Ativo
+537,Srta. Natália Porto,Masculino,39,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-01-13,6.5,Maria Alice Azevedo,CLT,Presencial,Ativo
+538,Maria Laura Cunha,Masculino,41,35-44,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-01-30,5.4,Hadassa Monteiro,CLT,Presencial,Ativo
+539,Lorenzo da Paz,Feminino,31,25-34,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-05-10,4.1,Sr. Ryan Viana,CLT,Presencial,Ativo
+540,Sr. Augusto Brito,Masculino,24,18-24,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2024-12-10,1.6,Natália Almeida,CLT,Presencial,Ativo
+541,Emanuel Macedo,Masculino,47,45-54,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-07-27,2.9,Agatha Lima,CLT,Presencial,Ativo
+542,Davi Lucca Rezende,Feminino,18,18-24,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-07-15,10.0,Emanuel da Mota,CLT,Presencial,Ativo
+543,Luiz Miguel da Cunha,Feminino,44,35-44,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2017-01-10,9.5,Marcelo Rios,CLT,Presencial,Ativo
+544,Eloah Aragão,Feminino,32,25-34,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2023-01-12,3.5,Lorena Silveira,CLT,Presencial,Ativo
+545,Srta. Mariane Rezende,Masculino,35,35-44,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2021-10-23,4.7,Calebe Abreu,CLT,Presencial,Ativo
+546,Rhavi Barbosa,Feminino,40,35-44,Divorciado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-05-21,2.1,Henry Gabriel Moreira,CLT,Presencial,Ativo
+547,Melina Albuquerque,Feminino,26,25-34,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2021-11-27,4.6,Luigi Campos,CLT,Presencial,Ativo
+548,Caroline Mendes,Feminino,26,25-34,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Sim,2019-03-14,7.3,Ian Gomes,CLT,Presencial,Ativo
+549,Cauã Caldeira,Feminino,33,25-34,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2017-06-01,9.1,Dr. Kaique Carvalho,CLT,Híbrido,Ativo
+550,Catarina Ramos,Feminino,28,25-34,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-04-12,5.2,Cecília Azevedo,CLT,Presencial,Ativo
+551,Alexia Pimenta,Feminino,48,45-54,Viúvo,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2024-06-10,2.1,Eloah Macedo,CLT,Presencial,Ativo
+552,Sr. Dom Jesus,Feminino,53,45-54,Viúvo,Fundamental,Campinas,SP,Sudeste,CD Campinas,Não,2022-11-02,3.7,Melina Cunha,CLT,Presencial,Ativo
+553,Carlos Eduardo Carvalho,Feminino,29,25-34,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2022-12-31,3.5,Matheus Ferreira,CLT,Presencial,Ativo
+554,Luara Vieira,Feminino,42,35-44,Viúvo,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2017-07-27,8.9,Josué da Mota,CLT,Presencial,Ativo
+555,Antonella da Cruz,Feminino,39,35-44,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2024-08-20,1.9,Larissa Vasconcelos,CLT,Presencial,Ativo
+556,Srta. Liz Costela,Masculino,29,25-34,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-11-09,0.6,Sophia Correia,CLT,Presencial,Ativo
+557,Sra. Laís Ramos,Masculino,33,25-34,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2024-05-03,2.2,Isaque Monteiro,CLT,Presencial,Inativo
+558,Brenda da Costa,Masculino,44,35-44,Solteiro,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2023-06-29,3.0,Ana Sophia Moura,CLT,Híbrido,Ativo
+559,Luiz Miguel Dias,Feminino,34,25-34,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-11-17,8.6,Mathias Nunes,CLT,Presencial,Ativo
+560,Maria Clara Nogueira,Feminino,25,25-34,Casado,Pós,Salvador,BA,Nordeste,CD Salvador,Não,2022-05-30,4.1,Emanuella Teixeira,CLT,Remoto,Ativo
+561,Ana Sophia Almeida,Masculino,49,45-54,Solteiro,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-09-07,6.8,Ana Lívia Albuquerque,CLT,Presencial,Ativo
+562,Henrique Aparecida,Masculino,27,25-34,Solteiro,Pós,Recife,PE,Nordeste,CD Recife,Não,2026-02-17,0.4,Miguel Montenegro,CLT,Presencial,Ativo
+563,Theodoro Vargas,Masculino,33,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2016-05-05,10.2,Mariana Sampaio,CLT,Presencial,Ativo
+564,Antonella Porto,Masculino,33,25-34,Casado,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-01-24,10.4,Zoe Pimenta,CLT,Presencial,Inativo
+565,João Lucas Barros,Feminino,35,35-44,Solteiro,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-10-01,5.8,Bruno Moraes,CLT,Presencial,Ativo
+566,Eduardo Nascimento,Masculino,46,45-54,Casado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-06-23,9.0,Dr. Benício das Neves,CLT,Presencial,Ativo
+567,Sra. Isabella Araújo,Masculino,47,45-54,Solteiro,Pós,Curitiba,PR,Sul,CD Curitiba,Não,2021-08-21,4.9,Caio Lopes,Temporário,Presencial,Ativo
+568,Rafael Pimenta,Feminino,40,35-44,Casado,Pós,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-10-14,3.7,Ana Laura das Neves,CLT,Presencial,Ativo
+569,Emanuella Campos,Masculino,40,35-44,Viúvo,Pós,Salvador,BA,Nordeste,CD Salvador,Não,2020-07-01,6.0,Davi Miguel Sampaio,Aprendiz,Presencial,Ativo
+570,Enrico Monteiro,Masculino,29,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2020-09-18,5.8,Dr. Enzo Freitas,CLT,Presencial,Ativo
+571,João Felipe Siqueira,Feminino,24,18-24,Viúvo,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2018-03-12,8.3,Arthur Farias,CLT,Presencial,Ativo
+572,Júlia Moura,Masculino,32,25-34,Casado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-11-02,4.7,João Silva,CLT,Presencial,Ativo
+573,Ana Vitória Monteiro,Masculino,43,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-03-02,7.3,Sophia Fonseca,CLT,Remoto,Ativo
+574,Theo Nunes,Masculino,38,35-44,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2018-08-20,7.9,Léo Castro,CLT,Presencial,Ativo
+575,Cauã Oliveira,Feminino,24,18-24,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Sim,2018-09-14,7.8,Bruna da Conceição,CLT,Presencial,Ativo
+576,Dra. Agatha Aparecida,Masculino,43,35-44,Viúvo,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2024-05-05,2.2,Joaquim Aparecida,CLT,Presencial,Ativo
+577,Maria Clara Gomes,Feminino,31,25-34,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2017-12-23,8.5,Felipe Andrade,CLT,Presencial,Ativo
+578,Mariah Câmara,Feminino,33,25-34,Casado,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2022-12-14,3.5,Sr. Oliver Silveira,CLT,Presencial,Ativo
+579,Dr. Breno Oliveira,Feminino,43,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-06-07,9.1,Sr. Theodoro Rocha,CLT,Presencial,Ativo
+580,Felipe Câmara,Masculino,19,18-24,Casado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2017-08-07,8.9,Ana Clara Guerra,CLT,Presencial,Ativo
+581,Ravi Lucca da Paz,Feminino,27,25-34,Divorciado,Pós,Salvador,BA,Nordeste,CD Salvador,Não,2019-01-09,7.5,Luan Borges,CLT,Presencial,Ativo
+582,Mirella Albuquerque,Masculino,42,35-44,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-11-22,4.6,Sr. João Vitor Nunes,CLT,Presencial,Ativo
+583,Joaquim Martins,Feminino,36,35-44,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-12-18,9.5,Dr. Gael Henrique Siqueira,CLT,Presencial,Ativo
+584,Isabelly Cassiano,Masculino,31,25-34,Solteiro,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2016-06-14,10.1,Nicolas Alves,CLT,Presencial,Ativo
+585,Vitor Hugo Ferreira,Masculino,28,25-34,Casado,Fundamental,Recife,PE,Nordeste,CD Recife,Não,2019-02-15,7.4,Alexia Farias,CLT,Presencial,Ativo
+586,Marcos Vinicius Sousa,Feminino,40,35-44,Solteiro,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2018-09-03,7.8,Sra. Bella Costela,CLT,Presencial,Ativo
+587,Isabela Leão,Feminino,33,25-34,Solteiro,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2020-09-10,5.8,Ana Liz Casa Grande,CLT,Presencial,Ativo
+588,Sra. Ayla Aparecida,Masculino,48,45-54,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-10-14,0.7,Vicente Jesus,CLT,Presencial,Ativo
+589,Sra. Natália Souza,Feminino,33,25-34,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2024-07-02,2.0,Calebe Montenegro,CLT,Presencial,Ativo
+590,Matteo Barbosa,Feminino,18,18-24,Casado,Fundamental,Recife,PE,Nordeste,CD Recife,Não,2021-01-02,5.5,Ana Liz Lopes,CLT,Presencial,Ativo
+591,Caroline da Costa,Masculino,26,25-34,Casado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2025-12-26,0.5,José Pedro Dias,CLT,Presencial,Ativo
+592,Lunna Dias,Masculino,30,25-34,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2016-05-14,10.1,Júlia da Conceição,CLT,Híbrido,Ativo
+593,Guilherme Carvalho,Feminino,41,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2025-12-27,0.5,Bianca Cassiano,CLT,Presencial,Ativo
+594,Enzo Machado,Masculino,27,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-07-19,1.0,Luara Jesus,Temporário,Presencial,Inativo
+595,Vitor Gabriel Fogaça,Masculino,25,25-34,Solteiro,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2023-02-16,3.4,Rael das Neves,CLT,Presencial,Ativo
+596,Julia Campos,Masculino,29,25-34,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2018-11-15,7.6,Emanuel Rodrigues,CLT,Híbrido,Ativo
+597,Asafe Cunha,Feminino,43,35-44,Divorciado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2018-05-05,8.2,Sr. Caleb Silva,CLT,Presencial,Ativo
+598,Luiz Henrique Gonçalves,Feminino,40,35-44,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2024-03-22,2.3,Ana Julia Rocha,CLT,Presencial,Ativo
+599,José Pedro Cavalcanti,Feminino,40,35-44,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2024-12-16,1.5,Nathan Machado,CLT,Presencial,Ativo
+600,Isadora Brito,Feminino,31,25-34,Casado,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-11-16,5.6,Bella Vieira,CLT,Presencial,Ativo
+601,Davi Albuquerque,Feminino,47,45-54,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-07-06,3.0,Henry Cardoso,CLT,Presencial,Ativo
+602,Murilo Freitas,Feminino,31,25-34,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-10-30,1.7,Antonella Pacheco,CLT,Remoto,Ativo
+603,Joana Barbosa,Masculino,31,25-34,Divorciado,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-12-28,2.5,Benício Costa,CLT,Presencial,Ativo
+604,Melina Cardoso,Feminino,39,35-44,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-08-02,8.9,Lucas Campos,CLT,Presencial,Ativo
+605,Ravi Aragão,Masculino,34,25-34,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Sim,2023-05-08,3.2,Pedro Silveira,CLT,Híbrido,Ativo
+606,Sara Alves,Masculino,36,35-44,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2020-01-22,6.4,Mariane Cavalcanti,CLT,Presencial,Ativo
+607,Sr. Francisco da Mota,Feminino,31,25-34,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-08-28,6.8,Pietro Cassiano,CLT,Presencial,Ativo
+608,Joaquim Ramos,Masculino,25,25-34,Divorciado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2018-08-28,7.8,Theo Jesus,CLT,Presencial,Ativo
+609,Pietra Araújo,Feminino,32,25-34,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-10-15,6.7,João Lucas Gomes,CLT,Presencial,Ativo
+610,Otto Costa,Feminino,31,25-34,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-06-01,1.1,Valentina da Cruz,CLT,Presencial,Ativo
+611,Ísis Vieira,Feminino,36,35-44,Casado,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Não,2022-10-09,3.7,Mateus Viana,CLT,Presencial,Ativo
+612,Sra. Pietra Nogueira,Masculino,38,35-44,Divorciado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-08-29,2.8,Manuella Nunes,CLT,Presencial,Ativo
+613,Luna Gomes,Feminino,33,25-34,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2020-07-29,5.9,Fernando Alves,CLT,Presencial,Ativo
+614,Sr. Arthur Vasconcelos,Feminino,45,45-54,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-01-31,7.4,Benjamin Melo,CLT,Remoto,Ativo
+615,Maria Alice Vargas,Masculino,31,25-34,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Sim,2026-01-26,0.4,Isabel Castro,CLT,Presencial,Ativo
+616,Josué Ribeiro,Masculino,42,35-44,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-09-10,9.8,João Felipe Nascimento,Temporário,Híbrido,Ativo
+617,Srta. Hellena Oliveira,Feminino,32,25-34,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-02-26,9.3,Maria Cavalcanti,CLT,Presencial,Ativo
+618,Isaac Pastor,Masculino,23,18-24,Casado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-12-15,7.5,Dr. Arthur Santos,CLT,Presencial,Ativo
+619,Sra. Cecília Nunes,Feminino,35,35-44,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2023-11-13,2.6,Thales Nogueira,CLT,Híbrido,Ativo
+620,Erick Mendonça,Masculino,36,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-05-04,8.2,Caleb Araújo,CLT,Presencial,Ativo
+621,Henry Almeida,Feminino,18,18-24,Casado,Fundamental,Recife,PE,Nordeste,CD Recife,Não,2016-11-11,9.6,Pietra Abreu,CLT,Presencial,Ativo
+622,Sr. Davi Lucca Fernandes,Feminino,18,18-24,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-12-17,1.5,Srta. Luna Araújo,CLT,Presencial,Ativo
+623,Diogo Pastor,Feminino,60,55+,Solteiro,Fundamental,Curitiba,PR,Sul,CD Curitiba,Sim,2023-06-09,3.1,Srta. Brenda Moura,CLT,Presencial,Ativo
+624,Sr. Marcelo Santos,Masculino,48,45-54,Solteiro,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2025-11-01,0.7,Maria Laura Pastor,CLT,Presencial,Ativo
+625,Lucca da Rosa,Masculino,33,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2017-01-16,9.5,Sr. Emanuel Siqueira,CLT,Presencial,Ativo
+626,Raquel Rezende,Feminino,42,35-44,Solteiro,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2022-10-19,3.7,Sr. Luiz Henrique Câmara,Temporário,Presencial,Ativo
+627,Emanuella Garcia,Feminino,51,45-54,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2025-09-22,0.8,Juan Cardoso,CLT,Presencial,Ativo
+628,Alexandre Sampaio,Masculino,40,35-44,Casado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-03-12,5.3,Maria Júlia Vargas,CLT,Presencial,Inativo
+629,Ana Beatriz Cirino,Feminino,47,45-54,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2019-12-05,6.6,Luiza Pimenta,CLT,Presencial,Ativo
+630,Cauã Monteiro,Feminino,24,18-24,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-07-16,8.0,Lucas Souza,CLT,Presencial,Ativo
+631,Isaac Ferreira,Masculino,31,25-34,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-09-23,2.8,Sr. Caio Santos,CLT,Presencial,Ativo
+632,Lívia Machado,Masculino,28,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-09-01,0.8,João Costela,CLT,Presencial,Ativo
+633,Bernardo Ferreira,Masculino,26,25-34,Divorciado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-05-29,7.1,Cauê Silveira,CLT,Presencial,Ativo
+634,Benicio Gomes,Masculino,23,18-24,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Sim,2016-06-21,10.0,Mariah Cavalcante,CLT,Presencial,Ativo
+635,Sabrina Garcia,Feminino,34,25-34,Solteiro,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2019-01-17,7.5,Dr. Carlos Eduardo Mendes,Temporário,Presencial,Ativo
+636,Heloisa Castro,Feminino,22,18-24,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2016-10-23,9.7,Ana Sophia Andrade,CLT,Presencial,Ativo
+637,Antônio Dias,Masculino,33,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-09-11,7.8,Cauã Barbosa,CLT,Presencial,Ativo
+638,Sr. Marcos Vinicius Castro,Masculino,34,25-34,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-07-18,5.0,Srta. Ayla Fernandes,CLT,Presencial,Ativo
+639,Rafaela Santos,Feminino,24,18-24,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2016-06-18,10.0,Pedro Rezende,CLT,Presencial,Ativo
+640,Pedro Henrique Castro,Feminino,26,25-34,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2019-08-17,6.9,Carlos Eduardo Farias,CLT,Presencial,Ativo
+641,Gabriel Jesus,Feminino,25,25-34,Viúvo,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-07-04,6.0,Dra. Ágatha da Luz,CLT,Presencial,Ativo
+642,Larissa da Rosa,Masculino,37,35-44,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Sim,2018-07-24,7.9,Calebe Aragão,CLT,Presencial,Ativo
+643,Rebeca Cassiano,Masculino,24,18-24,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2021-08-26,4.8,Luiz Miguel Abreu,Temporário,Presencial,Inativo
+644,Aurora da Rocha,Feminino,18,18-24,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-06-21,6.0,Pietra Costa,CLT,Presencial,Ativo
+645,Apollo Costela,Feminino,46,45-54,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-08-02,9.9,João Vitor Barros,CLT,Presencial,Ativo
+646,Bruna das Neves,Masculino,32,25-34,Divorciado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2023-08-27,2.8,Olivia Mendonça,CLT,Presencial,Ativo
+647,Julia Borges,Feminino,43,35-44,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2018-03-21,8.3,Ísis Gomes,CLT,Presencial,Ativo
+648,Léo Garcia,Masculino,18,18-24,Casado,MBA,Salvador,BA,Nordeste,CD Salvador,Não,2024-09-17,1.8,Sr. Pietro Aparecida,CLT,Presencial,Ativo
+649,Pedro Lucas Martins,Feminino,33,25-34,Casado,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-06-03,10.1,Henry Gabriel da Mata,CLT,Presencial,Ativo
+650,Ana Liz Cassiano,Feminino,39,35-44,Solteiro,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Sim,2020-03-03,6.3,Dra. Aylla Barros,CLT,Presencial,Ativo
+651,Manuella Nogueira,Masculino,42,35-44,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-08-10,4.9,Heloísa Novaes,CLT,Presencial,Inativo
+652,Mathias Moreira,Masculino,44,35-44,Casado,Fundamental,Recife,PE,Nordeste,CD Recife,Não,2024-08-17,1.9,Zoe Rodrigues,CLT,Presencial,Ativo
+653,Isabela Melo,Masculino,45,45-54,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2016-05-05,10.2,Bruno Gonçalves,Temporário,Presencial,Ativo
+654,Srta. Sarah Oliveira,Masculino,39,35-44,Casado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-11-03,9.7,Clara Campos,CLT,Presencial,Ativo
+655,Emanuella Cavalcante,Masculino,30,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2026-02-01,0.4,Gael Cardoso,CLT,Presencial,Ativo
+656,Otávio Barros,Feminino,40,35-44,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2026-01-20,0.4,Maya Costa,CLT,Presencial,Inativo
+657,Clara Peixoto,Masculino,32,25-34,Solteiro,Técnico,Recife,PE,Nordeste,CD Recife,Não,2024-08-27,1.8,Liam Siqueira,CLT,Presencial,Ativo
+658,Caio Gomes,Feminino,35,35-44,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2025-08-19,0.9,Maria Laura Novaes,CLT,Presencial,Ativo
+659,Dr. Vicente Marques,Masculino,31,25-34,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-10-14,5.7,Vicente Viana,CLT,Presencial,Ativo
+660,Brenda Leão,Masculino,21,18-24,Casado,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2024-09-03,1.8,Diogo Nunes,CLT,Presencial,Ativo
+661,Beatriz Caldeira,Feminino,32,25-34,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-10-30,0.7,Beatriz Viana,CLT,Híbrido,Ativo
+662,Vitor Gabriel Ferreira,Masculino,38,35-44,Solteiro,Técnico,Recife,PE,Nordeste,CD Recife,Não,2022-08-18,3.9,Julia Gomes,CLT,Presencial,Ativo
+663,Raquel Oliveira,Feminino,40,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2018-12-05,7.6,Olívia Andrade,CLT,Presencial,Ativo
+664,João Guilherme Guerra,Masculino,23,18-24,Viúvo,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2017-08-23,8.9,Murilo Andrade,CLT,Presencial,Ativo
+665,Luísa Sales,Masculino,24,18-24,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-01-22,5.4,Benicio Souza,Aprendiz,Presencial,Ativo
+666,Juliana Freitas,Masculino,28,25-34,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-03-22,6.3,Lucca Vieira,CLT,Presencial,Ativo
+667,Leonardo da Mota,Feminino,43,35-44,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-05-24,3.1,Beatriz da Conceição,CLT,Presencial,Ativo
+668,Kaique Souza,Masculino,29,25-34,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2016-11-29,9.6,Luna da Mata,CLT,Presencial,Ativo
+669,Sra. Aurora Correia,Feminino,41,35-44,Solteiro,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2021-05-09,5.1,Hadassa Jesus,Temporário,Presencial,Inativo
+670,Sra. Stella Freitas,Masculino,22,18-24,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-11-01,9.7,Théo Vieira,CLT,Presencial,Ativo
+671,Benício das Neves,Feminino,40,35-44,Divorciado,Pós,Recife,PE,Nordeste,CD Recife,Não,2024-12-06,1.6,Dra. Maria Luiza Carvalho,CLT,Híbrido,Ativo
+672,Ana Cavalcanti,Feminino,20,18-24,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2023-12-07,2.6,Guilherme Araújo,CLT,Presencial,Ativo
+673,Arthur Gabriel Marques,Masculino,34,25-34,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-07-11,5.0,Luiz Miguel Santos,CLT,Presencial,Ativo
+674,João Guilherme Freitas,Masculino,21,18-24,Viúvo,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2023-07-19,3.0,Sofia Gonçalves,CLT,Presencial,Ativo
+675,Camila Rodrigues,Masculino,34,25-34,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-08-07,2.9,Isaque Freitas,CLT,Presencial,Ativo
+676,Melissa Cavalcanti,Feminino,38,35-44,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2016-12-16,9.5,Marcela Ferreira,CLT,Presencial,Ativo
+677,José Pedro Souza,Masculino,20,18-24,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2023-01-08,3.5,Srta. Larissa Alves,CLT,Presencial,Ativo
+678,Ana Julia Castro,Feminino,40,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2024-05-24,2.1,Hadassa Câmara,CLT,Presencial,Inativo
+679,Heloisa Rocha,Feminino,34,25-34,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2019-09-24,6.8,João Felipe Rezende,CLT,Presencial,Ativo
+680,Sophie Almeida,Masculino,42,35-44,Casado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-09-09,0.8,Alexia Melo,CLT,Presencial,Ativo
+681,Erick Peixoto,Feminino,34,25-34,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2020-09-13,5.8,Henry Gabriel da Cunha,CLT,Presencial,Ativo
+682,Lorena Silva,Feminino,35,35-44,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-03-15,6.3,Dra. Kamilly Lima,CLT,Presencial,Ativo
+683,Marcela Marques,Masculino,50,45-54,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-10-09,6.7,Henrique Martins,CLT,Presencial,Ativo
+684,Vicente Pinto,Feminino,28,25-34,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-03-01,4.3,Bella Abreu,CLT,Presencial,Ativo
+685,Maria Fernanda Novais,Feminino,35,35-44,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2017-11-03,8.7,Larissa da Rosa,CLT,Híbrido,Ativo
+686,Bianca Mendes,Masculino,34,25-34,Divorciado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-11-06,9.7,Lucca da Mota,CLT,Presencial,Inativo
+687,Lunna da Mota,Feminino,35,35-44,Solteiro,Pós,Salvador,BA,Nordeste,CD Salvador,Não,2019-02-12,7.4,Kaique Correia,CLT,Presencial,Ativo
+688,Valentim Teixeira,Feminino,25,25-34,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2017-07-06,9.0,Benjamin Peixoto,CLT,Presencial,Ativo
+689,Luiza Rodrigues,Masculino,33,25-34,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-06-08,7.1,Apollo Rezende,CLT,Presencial,Ativo
+690,Laís da Luz,Feminino,30,25-34,Casado,Médio,Recife,PE,Nordeste,CD Recife,Sim,2024-06-08,2.1,Maria Luiza Gomes,Aprendiz,Híbrido,Ativo
+691,Srta. Esther Fernandes,Masculino,42,35-44,Divorciado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-12-04,3.6,Dra. Hellena Rodrigues,CLT,Presencial,Ativo
+692,Olívia Rios,Masculino,34,25-34,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2022-09-16,3.8,Dr. Enzo Gabriel Ribeiro,CLT,Presencial,Ativo
+693,Emilly da Rocha,Masculino,27,25-34,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-06-23,5.0,Ravy Cardoso,CLT,Presencial,Inativo
+694,Sra. Emilly Rodrigues,Feminino,41,35-44,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2023-03-17,3.3,Sr. Henry Fogaça,CLT,Presencial,Ativo
+695,Leandro Leão,Masculino,45,45-54,Casado,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-10-17,9.7,Dr. José Pedro Pacheco,CLT,Presencial,Ativo
+696,Ravi Campos,Masculino,40,35-44,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2025-04-03,1.2,Ana Júlia Porto,CLT,Presencial,Ativo
+697,Ana Sophia Melo,Feminino,31,25-34,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2017-04-27,9.2,Theodoro Campos,CLT,Híbrido,Ativo
+698,Maria Helena Moura,Feminino,21,18-24,Solteiro,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2023-10-15,2.7,Noah Aragão,CLT,Presencial,Ativo
+699,Davi Miguel Costa,Feminino,32,25-34,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2023-06-13,3.1,Dr. Raul Casa Grande,Temporário,Presencial,Ativo
+700,Sr. Bruno Mendonça,Masculino,21,18-24,Casado,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2020-08-25,5.9,Sr. Levi Porto,CLT,Presencial,Ativo
+701,André Machado,Feminino,28,25-34,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-07-01,7.0,Gustavo Henrique Teixeira,CLT,Presencial,Inativo
+702,Emanuel Mendonça,Feminino,27,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-08-25,3.9,Davi Lucca Pimenta,CLT,Presencial,Ativo
+703,Mariane Guerra,Feminino,31,25-34,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-05-22,10.1,Pietra Gomes,CLT,Presencial,Ativo
+704,Arthur Miguel Nascimento,Feminino,34,25-34,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-06-28,8.0,Marcelo Albuquerque,CLT,Presencial,Ativo
+705,Sr. Antony Rocha,Masculino,39,35-44,Solteiro,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-06-04,8.1,Josué Câmara,CLT,Presencial,Ativo
+706,Sra. Luana Cardoso,Feminino,39,35-44,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2022-06-13,4.1,Matheus Montenegro,CLT,Presencial,Ativo
+707,Lorena Cavalcante,Masculino,39,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2025-04-03,1.2,Augusto da Rosa,CLT,Presencial,Ativo
+708,Rafael Siqueira,Feminino,30,25-34,Solteiro,MBA,Curitiba,PR,Sul,CD Curitiba,Não,2018-06-11,8.1,Valentina Fernandes,CLT,Presencial,Ativo
+709,Catarina Fernandes,Masculino,45,45-54,Solteiro,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-03-03,1.3,Maria Alice Sá,CLT,Presencial,Inativo
+710,Enzo Guerra,Masculino,32,25-34,Divorciado,Médio,Recife,PE,Nordeste,CD Recife,Não,2019-07-10,7.0,Ian Câmara,CLT,Presencial,Ativo
+711,Srta. Hadassa Siqueira,Masculino,27,25-34,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-09-06,1.8,Thiago Cavalcante,CLT,Presencial,Inativo
+712,Luiz Otávio Silva,Masculino,31,25-34,Casado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-12-17,6.5,Ana Carolina Garcia,CLT,Presencial,Ativo
+713,Jade Vargas,Masculino,39,35-44,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2024-03-30,2.3,Ana Julia Peixoto,CLT,Presencial,Ativo
+714,Cauê Rezende,Masculino,43,35-44,Casado,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-12-05,0.6,Benicio Sales,CLT,Híbrido,Ativo
+715,Oliver Macedo,Feminino,24,18-24,Solteiro,Técnico,Recife,PE,Nordeste,CD Recife,Não,2024-10-28,1.7,Camila Novaes,CLT,Presencial,Ativo
+716,Renan Sampaio,Feminino,18,18-24,Solteiro,Técnico,Salvador,BA,Nordeste,CD Salvador,Sim,2024-07-23,1.9,Gustavo Sales,Temporário,Presencial,Ativo
+717,Alexia da Rosa,Masculino,43,35-44,Casado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2024-08-31,1.8,Beatriz Ribeiro,CLT,Presencial,Ativo
+718,Júlia Pinto,Masculino,32,25-34,Solteiro,Fundamental,Salvador,BA,Nordeste,CD Salvador,Não,2021-02-08,5.4,Cecilia Leão,CLT,Presencial,Ativo
+719,Thomas Silveira,Feminino,28,25-34,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-12-05,9.6,Bárbara da Paz,CLT,Presencial,Ativo
+720,Cauê Monteiro,Feminino,23,18-24,Divorciado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-11-07,3.6,Guilherme Vasconcelos,CLT,Presencial,Ativo
+721,Vicente Costa,Feminino,32,25-34,Solteiro,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-04-25,5.2,Dr. Juan Castro,CLT,Presencial,Ativo
+722,Yan Monteiro,Masculino,36,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-12-01,5.6,Rodrigo Farias,CLT,Presencial,Ativo
+723,Alexandre Albuquerque,Masculino,31,25-34,Viúvo,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-02-11,4.4,Aurora Camargo,CLT,Presencial,Ativo
+724,Sabrina Cassiano,Feminino,18,18-24,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2023-01-17,3.5,Thomas Barbosa,CLT,Presencial,Ativo
+725,Dra. Beatriz da Cunha,Feminino,34,25-34,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2026-01-19,0.4,Isabel Marques,CLT,Híbrido,Inativo
+726,João Martins,Masculino,31,25-34,Solteiro,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2026-04-14,0.2,Carlos Eduardo Cavalcanti,Aprendiz,Presencial,Ativo
+727,João Vitor Fonseca,Masculino,42,35-44,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-02-09,6.4,Luara Lima,CLT,Presencial,Ativo
+728,Srta. Aylla Teixeira,Feminino,29,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2026-05-05,0.2,Anthony Carvalho,CLT,Presencial,Ativo
+729,Eloá Farias,Masculino,18,18-24,Viúvo,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2018-11-21,7.6,Dr. João Felipe Siqueira,CLT,Presencial,Ativo
+730,Marcelo Fernandes,Masculino,35,35-44,Solteiro,Fundamental,Campinas,SP,Sudeste,CD Campinas,Não,2020-10-29,5.7,Danilo Guerra,CLT,Presencial,Ativo
+731,Mirella da Mata,Feminino,44,35-44,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-03-10,3.3,Pietra Leão,Temporário,Presencial,Inativo
+732,Eloah Camargo,Feminino,41,35-44,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2016-03-29,10.3,Bento Castro,CLT,Remoto,Ativo
+733,Oliver Pastor,Masculino,39,35-44,Divorciado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-12-20,7.5,Maysa Cirino,CLT,Presencial,Ativo
+734,Maria Helena Vasconcelos,Masculino,49,45-54,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2020-02-17,6.4,Sr. Davi Lucca Mendes,CLT,Presencial,Ativo
+735,Brenda Jesus,Masculino,36,35-44,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2019-10-21,6.7,Ana Clara Azevedo,Temporário,Presencial,Ativo
+736,Levi Albuquerque,Feminino,33,25-34,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-07-21,4.9,Dra. Valentina Vargas,CLT,Híbrido,Ativo
+737,Dra. Heloisa Rios,Masculino,29,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2016-06-10,10.1,Sr. Pedro Ribeiro,CLT,Presencial,Ativo
+738,Srta. Rafaela Ferreira,Masculino,22,18-24,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-12-30,8.5,Maria Isis Cassiano,CLT,Presencial,Ativo
+739,Ana Júlia Albuquerque,Masculino,41,35-44,Solteiro,Pós,Salvador,BA,Nordeste,CD Salvador,Não,2021-07-13,5.0,Eduarda Montenegro,CLT,Presencial,Inativo
+740,Sabrina Cavalcante,Feminino,22,18-24,Casado,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-09-28,6.8,Samuel Duarte,CLT,Presencial,Ativo
+741,Lucas da Mota,Masculino,45,45-54,Viúvo,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2018-07-10,8.0,Thiago Câmara,CLT,Presencial,Ativo
+742,Maria Flor Guerra,Feminino,39,35-44,Divorciado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2017-07-05,9.0,Bruno Marques,CLT,Presencial,Ativo
+743,Melissa Borges,Feminino,31,25-34,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2021-11-21,4.6,Melissa Dias,CLT,Presencial,Ativo
+744,Theo Souza,Feminino,51,45-54,Divorciado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-05-08,3.2,Allana Caldeira,CLT,Presencial,Ativo
+745,Maria Sophia Andrade,Masculino,39,35-44,Casado,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2017-12-06,8.6,Agatha Borges,CLT,Presencial,Inativo
+746,Liz Moraes,Masculino,35,35-44,Viúvo,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-04-28,8.2,Gabrielly Rezende,CLT,Presencial,Ativo
+747,Mirella Fernandes,Masculino,27,25-34,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-05-11,7.1,Sr. Henry Gabriel Marques,CLT,Presencial,Inativo
+748,Dr. Luiz Otávio Silva,Masculino,34,25-34,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Sim,2025-11-04,0.7,Bruna Brito,CLT,Híbrido,Inativo
+749,Hellena Abreu,Feminino,38,35-44,Solteiro,Pós,Salvador,BA,Nordeste,CD Salvador,Não,2019-04-22,7.2,Dr. João Vitor Novaes,CLT,Presencial,Ativo
+750,Maria Fernanda Sampaio,Feminino,41,35-44,Casado,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2018-07-28,7.9,Augusto Cavalcante,CLT,Presencial,Ativo
+751,Cecilia Silva,Masculino,23,18-24,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2017-10-13,8.7,Dra. Maria Luísa Caldeira,CLT,Presencial,Ativo
+752,Gael Henrique Correia,Masculino,27,25-34,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Sim,2021-09-06,4.8,Matteo Cunha,CLT,Presencial,Ativo
+753,Esther Silva,Feminino,40,35-44,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-08-29,8.8,Sr. Oliver Aparecida,CLT,Presencial,Ativo
+754,Camila Vargas,Masculino,39,35-44,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2024-07-06,2.0,Natália Ribeiro,Temporário,Presencial,Ativo
+755,Sofia Carvalho,Masculino,39,35-44,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2019-09-12,6.8,Alana Moura,CLT,Presencial,Inativo
+756,Srta. Marina Pacheco,Feminino,34,25-34,Viúvo,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2024-04-08,2.2,Sophia Vasconcelos,CLT,Presencial,Ativo
+757,Erick Siqueira,Masculino,33,25-34,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2017-03-29,9.3,Cauã Gomes,CLT,Presencial,Ativo
+758,Luna Montenegro,Masculino,18,18-24,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-01-09,4.5,Mariah Pereira,CLT,Presencial,Ativo
+759,Srta. Kamilly Gonçalves,Masculino,34,25-34,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2017-02-23,9.4,Dr. Rael Carvalho,CLT,Presencial,Ativo
+760,Noah Pereira,Masculino,23,18-24,Solteiro,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-09-20,5.8,Dra. Sophie da Rosa,CLT,Presencial,Ativo
+761,Dra. Luara Silva,Feminino,27,25-34,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-06-29,4.0,Dra. Helena Costa,CLT,Presencial,Ativo
+762,João Vitor Rodrigues,Feminino,40,35-44,Solteiro,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-03-13,9.3,Sr. Felipe Montenegro,CLT,Presencial,Ativo
+763,Luna Santos,Masculino,43,35-44,Divorciado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2022-12-30,3.5,Luiz Gustavo Novais,CLT,Presencial,Ativo
+764,Maria Vitória Rocha,Feminino,24,18-24,Solteiro,Pós,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-08-31,6.8,Dra. Laura Lima,CLT,Presencial,Ativo
+765,Vicente Caldeira,Feminino,39,35-44,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-04-26,10.2,Mateus Casa Grande,CLT,Presencial,Ativo
+766,Benjamin Costa,Feminino,35,35-44,Casado,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-03-14,10.3,Enrico da Paz,CLT,Presencial,Ativo
+767,Isis Casa Grande,Feminino,27,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2023-04-06,3.2,Juan Costela,CLT,Presencial,Ativo
+768,Ana Beatriz Fogaça,Feminino,44,35-44,Solteiro,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2023-01-02,3.5,Bella Pimenta,CLT,Presencial,Ativo
+769,Heloisa Souza,Feminino,34,25-34,Divorciado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2018-11-03,7.7,Maria Julia da Costa,CLT,Presencial,Ativo
+770,Laura Sales,Masculino,27,25-34,Solteiro,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-07-03,1.0,Ana Julia Garcia,CLT,Presencial,Ativo
+771,Maria Vitória Viana,Feminino,29,25-34,Divorciado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-10-31,9.7,Luara Novaes,CLT,Híbrido,Ativo
+772,Anthony Gabriel Souza,Feminino,52,45-54,Viúvo,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2025-03-16,1.3,Guilherme Pinto,CLT,Presencial,Ativo
+773,Heloisa Porto,Masculino,45,45-54,Casado,Pós,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-07-06,8.0,Dra. Maria Eduarda Sá,Temporário,Presencial,Ativo
+774,Ísis Sousa,Feminino,33,25-34,Solteiro,Superior,Curitiba,PR,Sul,CD Curitiba,Sim,2018-02-05,8.4,Fernanda Vasconcelos,CLT,Presencial,Ativo
+775,Srta. Laís Machado,Masculino,57,55+,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2023-03-24,3.3,Breno Cirino,CLT,Híbrido,Ativo
+776,Théo Campos,Masculino,27,25-34,Viúvo,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2021-07-12,5.0,Ana Cecília Lima,Temporário,Presencial,Ativo
+777,João Cardoso,Masculino,39,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2016-06-29,10.0,José Miguel Abreu,CLT,Híbrido,Ativo
+778,Dr. Eduardo Aparecida,Feminino,35,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Sim,2023-06-26,3.0,Lorenzo Peixoto,Aprendiz,Presencial,Ativo
+779,Kevin Mendonça,Masculino,21,18-24,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2018-10-08,7.7,Maria Alice Barbosa,CLT,Presencial,Ativo
+780,Sra. Valentina Câmara,Masculino,28,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-05-30,3.1,Vicente Azevedo,CLT,Presencial,Ativo
+781,Eduarda Leão,Feminino,38,35-44,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2018-03-02,8.3,Zoe Guerra,CLT,Remoto,Ativo
+782,Luiz Fernando Câmara,Masculino,33,25-34,Divorciado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-01-02,9.5,Lucas Farias,CLT,Presencial,Inativo
+783,Dr. Henrique Sá,Feminino,30,25-34,Divorciado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-12-30,9.5,Vitória Melo,Temporário,Presencial,Ativo
+784,Alexia Camargo,Masculino,29,25-34,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-07-29,9.9,Manuella Machado,CLT,Presencial,Ativo
+785,Joaquim Aparecida,Masculino,29,25-34,Solteiro,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-06-23,1.0,Luna Garcia,CLT,Presencial,Ativo
+786,Matheus da Cunha,Feminino,36,35-44,Viúvo,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2020-03-06,6.3,Larissa Alves,Temporário,Presencial,Ativo
+787,Maria Fernanda Moraes,Feminino,27,25-34,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-04-27,3.2,Melissa Mendonça,Temporário,Presencial,Ativo
+788,Juan Rezende,Masculino,38,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-03-22,9.3,Lorenzo Moraes,CLT,Presencial,Ativo
+789,Calebe Cavalcante,Feminino,23,18-24,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-12-26,9.5,Yasmin Abreu,CLT,Presencial,Ativo
+790,Ana Luiza Costela,Masculino,40,35-44,Casado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-09-09,5.8,Hadassa Rodrigues,CLT,Presencial,Ativo
+791,Bella Costela,Feminino,33,25-34,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2024-08-06,1.9,Maya Ramos,CLT,Presencial,Ativo
+792,Eduardo Alves,Feminino,52,45-54,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2026-04-07,0.2,Luísa Andrade,CLT,Presencial,Ativo
+793,Brayan Aragão,Masculino,42,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-08-17,3.9,José Novais,CLT,Presencial,Ativo
+794,Ian da Luz,Feminino,34,25-34,Solteiro,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2016-12-29,9.5,Maria Julia Machado,CLT,Presencial,Ativo
+795,Maria Luiza Lopes,Feminino,35,35-44,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-05-28,1.1,Sr. Mathias Rocha,CLT,Presencial,Ativo
+796,Vitor Abreu,Feminino,53,45-54,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2017-03-22,9.3,Ana Luiza Sá,CLT,Presencial,Ativo
+797,Dra. Ana Clara Sampaio,Feminino,18,18-24,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Sim,2016-03-14,10.3,Luiz Henrique Montenegro,CLT,Presencial,Inativo
+798,João Vitor Viana,Masculino,27,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-08-09,0.9,Liz Pereira,CLT,Presencial,Ativo
+799,João Miguel Teixeira,Feminino,30,25-34,Casado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-08-16,2.9,Maria Helena Gonçalves,CLT,Presencial,Ativo
+800,Ana Melo,Feminino,33,25-34,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-02-11,8.4,Vitor Câmara,CLT,Híbrido,Ativo
+801,Matteo Vieira,Feminino,51,45-54,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2025-02-28,1.3,Laís Porto,CLT,Presencial,Ativo
+802,Kaique Rocha,Feminino,40,35-44,Divorciado,Fundamental,Campinas,SP,Sudeste,CD Campinas,Não,2022-01-04,4.5,Dra. Maria Fernanda Albuquerque,CLT,Presencial,Ativo
+803,Cecília Campos,Feminino,31,25-34,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2021-07-17,5.0,André Oliveira,CLT,Presencial,Ativo
+804,Maria Júlia Nascimento,Masculino,18,18-24,Casado,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Sim,2020-06-04,6.1,Antonella das Neves,CLT,Presencial,Ativo
+805,Luiz Felipe Cunha,Masculino,33,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Sim,2018-08-23,7.9,Sophie Casa Grande,CLT,Presencial,Ativo
+806,Francisco Câmara,Masculino,36,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2025-06-06,1.1,Isis Correia,CLT,Presencial,Ativo
+807,Fernando Rios,Feminino,32,25-34,Casado,Pós,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-08-01,0.9,Ana Júlia Sá,CLT,Presencial,Ativo
+808,Nicole Ramos,Masculino,32,25-34,Divorciado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-07-14,5.0,Ana Sophia da Rocha,CLT,Presencial,Ativo
+809,Ana Lívia da Cunha,Feminino,32,25-34,Solteiro,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2019-02-13,7.4,Gael Henrique Silveira,CLT,Presencial,Ativo
+810,Raquel Farias,Masculino,31,25-34,Solteiro,MBA,Salvador,BA,Nordeste,CD Salvador,Não,2021-08-06,4.9,Sr. Isaac Brito,CLT,Presencial,Ativo
+811,Bernardo Correia,Feminino,46,45-54,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2022-12-06,3.6,Dr. Rael Farias,CLT,Presencial,Ativo
+812,Lorena Sales,Feminino,34,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Sim,2018-10-14,7.7,Daniela Nunes,CLT,Híbrido,Ativo
+813,Maria Clara Dias,Feminino,19,18-24,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2023-07-16,3.0,Eloá Abreu,CLT,Presencial,Ativo
+814,Sr. Henry Silva,Feminino,21,18-24,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-03-15,1.3,Dra. Maya da Mota,CLT,Presencial,Ativo
+815,Sr. Lucas Mendes,Feminino,26,25-34,Divorciado,Técnico,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-01-25,8.4,Melissa Fogaça,CLT,Presencial,Ativo
+816,Ryan Novaes,Masculino,41,35-44,Casado,Pós,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-06-21,3.0,Erick Ramos,CLT,Presencial,Ativo
+817,Anna Liz da Mota,Feminino,48,45-54,Divorciado,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2017-09-01,8.8,Vitor Gabriel Costa,Temporário,Presencial,Ativo
+818,Breno Siqueira,Masculino,28,25-34,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-10-14,2.7,Antony Montenegro,CLT,Presencial,Inativo
+819,Ana Pacheco,Feminino,38,35-44,Casado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2025-06-09,1.1,Maria Luiza Vargas,CLT,Presencial,Ativo
+820,Hadassa Andrade,Feminino,29,25-34,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-06-06,5.1,Joana Nogueira,CLT,Presencial,Ativo
+821,Olivia Rezende,Masculino,41,35-44,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2019-06-07,7.1,Luiz Otávio Gonçalves,CLT,Híbrido,Ativo
+822,João Vitor Carvalho,Feminino,33,25-34,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2023-05-07,3.2,Sarah Moraes,CLT,Presencial,Ativo
+823,Miguel Fonseca,Masculino,48,45-54,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2026-03-11,0.3,Alexia Ribeiro,CLT,Híbrido,Ativo
+824,Enzo Sá,Feminino,37,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-01-08,6.5,Cecilia Machado,CLT,Presencial,Ativo
+825,Felipe Nunes,Masculino,29,25-34,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-06-21,7.0,Clara Sousa,Temporário,Presencial,Ativo
+826,Sra. Maria Alice Aparecida,Masculino,25,25-34,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2017-04-23,9.2,Ryan da Conceição,CLT,Presencial,Ativo
+827,João Freitas,Feminino,40,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2023-09-12,2.8,Asafe Rios,CLT,Presencial,Ativo
+828,Valentim Vieira,Masculino,56,55+,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-06-27,6.0,Dr. Ravy Marques,CLT,Presencial,Ativo
+829,Asafe Rezende,Feminino,25,25-34,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2025-05-05,1.2,Sr. Vicente Porto,CLT,Presencial,Ativo
+830,João Pacheco,Masculino,48,45-54,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-01-04,3.5,Emanuella Garcia,CLT,Presencial,Inativo
+831,Maria Flor Fonseca,Feminino,23,18-24,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2016-04-16,10.2,Ana Vitória Moreira,CLT,Presencial,Ativo
+832,Marcos Vinicius Câmara,Masculino,24,18-24,Casado,MBA,Curitiba,PR,Sul,CD Curitiba,Não,2020-10-14,5.7,Maria Luiza Fogaça,CLT,Presencial,Ativo
+833,Dr. Rodrigo Pereira,Masculino,30,25-34,Solteiro,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2021-08-11,4.9,Theodoro Carvalho,CLT,Presencial,Ativo
+834,Eloah da Conceição,Feminino,32,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2019-06-14,7.1,Théo Ramos,CLT,Presencial,Ativo
+835,Heitor Cassiano,Masculino,18,18-24,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Sim,2020-03-10,6.3,Emanuel Fonseca,CLT,Presencial,Inativo
+836,Bárbara Ribeiro,Masculino,33,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2024-01-27,2.4,Oliver Farias,Aprendiz,Presencial,Ativo
+837,Srta. Rafaela Rocha,Feminino,18,18-24,Divorciado,Superior,Curitiba,PR,Sul,CD Curitiba,Não,2026-04-05,0.2,Pietra Costela,CLT,Presencial,Ativo
+838,Elisa Ramos,Feminino,39,35-44,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-12-23,5.5,Alícia da Cruz,CLT,Presencial,Ativo
+839,Davi Lucas Oliveira,Masculino,50,45-54,Casado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-01-06,7.5,Elisa Carvalho,CLT,Presencial,Ativo
+840,Sophie Aparecida,Masculino,27,25-34,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2018-12-13,7.6,Clara Araújo,CLT,Presencial,Ativo
+841,José Pedro Cirino,Masculino,30,25-34,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-10-19,7.7,Maria Luiza Peixoto,CLT,Presencial,Ativo
+842,Allana Silveira,Masculino,45,45-54,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2025-06-08,1.1,Dra. Larissa Barros,Temporário,Presencial,Inativo
+843,Pietro Pereira,Masculino,36,35-44,Solteiro,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2025-05-28,1.1,Rafaela Cavalcante,CLT,Presencial,Ativo
+844,Noah Peixoto,Feminino,30,25-34,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2018-09-24,7.8,Fernando Pinto,CLT,Presencial,Ativo
+845,Sophia da Luz,Feminino,49,45-54,Divorciado,Médio,Recife,PE,Nordeste,CD Recife,Não,2016-10-14,9.7,Luigi Marques,CLT,Presencial,Ativo
+846,Ana Lívia da Conceição,Masculino,40,35-44,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2025-06-13,1.0,Maria Isis Cardoso,CLT,Híbrido,Ativo
+847,Antony Costa,Feminino,26,25-34,Divorciado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-03-13,8.3,Sofia Rodrigues,CLT,Presencial,Ativo
+848,Clarice Pereira,Feminino,37,35-44,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2023-07-15,3.0,Felipe Melo,CLT,Presencial,Ativo
+849,Ana Carolina Viana,Feminino,43,35-44,Solteiro,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2020-09-12,5.8,Sarah Sá,CLT,Presencial,Ativo
+850,Caleb Mendes,Feminino,27,25-34,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2019-09-17,6.8,Caroline Pereira,CLT,Híbrido,Ativo
+851,Agatha Vasconcelos,Masculino,37,35-44,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2021-06-08,5.1,Marina Moreira,CLT,Híbrido,Ativo
+852,Maria Eduarda Aparecida,Masculino,23,18-24,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2019-08-12,6.9,Dra. Mariane da Conceição,CLT,Híbrido,Ativo
+853,Maria Helena Ferreira,Masculino,34,25-34,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2022-08-13,3.9,Beatriz Lima,CLT,Presencial,Ativo
+854,José Miguel Mendes,Masculino,38,35-44,Solteiro,Fundamental,Recife,PE,Nordeste,CD Recife,Não,2022-12-09,3.6,Bryan da Paz,CLT,Presencial,Inativo
+855,Ísis Jesus,Masculino,33,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2020-01-14,6.5,Gabriel Abreu,CLT,Presencial,Ativo
+856,Dra. Alana Oliveira,Feminino,28,25-34,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2022-09-17,3.8,Bárbara Moreira,CLT,Presencial,Ativo
+857,Marcos Vinicius Rezende,Feminino,44,35-44,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-04-09,5.2,Levi Jesus,CLT,Presencial,Ativo
+858,Sr. Eduardo Lima,Masculino,46,45-54,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2017-12-31,8.5,Isis da Luz,CLT,Presencial,Ativo
+859,Mariana Nunes,Feminino,18,18-24,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2023-07-04,3.0,Dr. Miguel Sá,CLT,Presencial,Ativo
+860,Noah Novaes,Masculino,40,35-44,Viúvo,Superior,Recife,PE,Nordeste,CD Recife,Não,2021-05-19,5.1,Rafaela Cavalcanti,CLT,Presencial,Ativo
+861,Dr. José das Neves,Masculino,36,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2024-10-16,1.7,Manuella Vasconcelos,CLT,Presencial,Ativo
+862,Sra. Cecilia Ribeiro,Feminino,31,25-34,Casado,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2021-01-05,5.5,Ian Machado,CLT,Presencial,Ativo
+863,Srta. Beatriz Cunha,Feminino,42,35-44,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2020-01-26,6.4,Maria Liz Viana,CLT,Presencial,Ativo
+864,Sr. Enrico Gomes,Feminino,20,18-24,Casado,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2025-01-09,1.5,Alana Borges,CLT,Presencial,Ativo
+865,Ravy Peixoto,Feminino,25,25-34,Divorciado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-10-18,9.7,Aurora Azevedo,CLT,Presencial,Ativo
+866,Henry Freitas,Feminino,34,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-08-04,3.9,Arthur Miguel Silveira,CLT,Presencial,Ativo
+867,Maria Liz Pimenta,Feminino,31,25-34,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2022-06-08,4.1,Stephany da Paz,CLT,Presencial,Inativo
+868,Dra. Ana Laura Vasconcelos,Feminino,33,25-34,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2017-06-18,9.0,Thales Macedo,CLT,Presencial,Ativo
+869,Guilherme Ribeiro,Feminino,27,25-34,Casado,MBA,Recife,PE,Nordeste,CD Recife,Não,2024-05-21,2.1,Laura Correia,Aprendiz,Presencial,Ativo
+870,Thomas Moreira,Feminino,31,25-34,Casado,Técnico,Curitiba,PR,Sul,CD Curitiba,Não,2018-10-24,7.7,Srta. Eloá Rocha,Temporário,Presencial,Ativo
+871,Luiz Miguel da Costa,Masculino,29,25-34,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2022-12-22,3.5,Agatha Castro,CLT,Presencial,Ativo
+872,João Guilherme Vasconcelos,Feminino,27,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2020-08-28,5.8,Maria Rios,CLT,Presencial,Ativo
+873,Maria Luiza Pastor,Masculino,43,35-44,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-12-04,5.6,Valentim Albuquerque,CLT,Híbrido,Ativo
+874,Dra. Ana Lívia Borges,Masculino,34,25-34,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2022-05-23,4.1,Larissa Silveira,CLT,Presencial,Ativo
+875,Marcela Ferreira,Masculino,49,45-54,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-04-06,6.2,Henry Gabriel Pereira,Temporário,Presencial,Ativo
+876,Rafael Guerra,Feminino,25,25-34,Divorciado,Médio,Curitiba,PR,Sul,CD Curitiba,Sim,2020-12-26,5.5,Alana da Luz,CLT,Presencial,Inativo
+877,Nicolas Montenegro,Masculino,32,25-34,Casado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-08-19,7.9,Brayan Montenegro,CLT,Presencial,Ativo
+878,Luigi Camargo,Masculino,32,25-34,Viúvo,Médio,Salvador,BA,Nordeste,CD Salvador,Sim,2024-03-27,2.3,Jade Nascimento,CLT,Presencial,Ativo
+879,Isis Sales,Masculino,37,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2017-01-03,9.5,Maria Flor Nunes,CLT,Presencial,Ativo
+880,Isabelly Sá,Masculino,50,45-54,Viúvo,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2026-04-06,0.2,Dr. Raul Pastor,Temporário,Presencial,Ativo
+881,Rodrigo Camargo,Feminino,55,55+,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-02-14,10.4,Bernardo Garcia,CLT,Presencial,Ativo
+882,Hellena Rocha,Feminino,40,35-44,Divorciado,Médio,Recife,PE,Nordeste,CD Recife,Não,2022-06-29,4.0,Srta. Luara Jesus,CLT,Híbrido,Ativo
+883,Sr. João da Cruz,Feminino,44,35-44,Divorciado,Médio,Recife,PE,Nordeste,CD Recife,Não,2023-09-05,2.8,Caleb Guerra,CLT,Presencial,Ativo
+884,Manuela Barbosa,Feminino,35,35-44,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-12-17,7.5,Emanuelly Melo,CLT,Presencial,Ativo
+885,Dr. Henrique Oliveira,Feminino,32,25-34,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2020-04-01,6.3,Fernando Souza,Aprendiz,Híbrido,Ativo
+886,Esther Monteiro,Feminino,41,35-44,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2020-07-12,6.0,Srta. Isabela Sousa,CLT,Presencial,Ativo
+887,João Costela,Masculino,40,35-44,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2016-02-09,10.4,Guilherme da Cruz,CLT,Híbrido,Ativo
+888,Maria Alice Cassiano,Feminino,35,35-44,Solteiro,Pós,Campinas,SP,Sudeste,CD Campinas,Não,2022-11-11,3.6,Dante Barros,CLT,Híbrido,Ativo
+889,Sabrina Pimenta,Feminino,47,45-54,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-05-13,6.1,Vitor Hugo Aparecida,CLT,Remoto,Ativo
+890,Maria Fernanda Pinto,Masculino,30,25-34,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2024-10-19,1.7,Dr. João Guilherme Mendonça,CLT,Híbrido,Ativo
+891,Thomas da Mota,Masculino,38,35-44,Solteiro,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-06-24,8.0,Hellena Sá,CLT,Presencial,Ativo
+892,Carolina Aragão,Masculino,26,25-34,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2025-06-21,1.0,Mariana Mendes,CLT,Presencial,Ativo
+893,Ana Beatriz Montenegro,Feminino,36,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-05-05,8.2,Dr. Erick Marques,Aprendiz,Presencial,Ativo
+894,Valentim Marques,Masculino,40,35-44,Solteiro,Médio,Recife,PE,Nordeste,CD Recife,Não,2016-05-18,10.1,Sr. Anthony Gabriel Rocha,CLT,Presencial,Ativo
+895,Mateus Pacheco,Masculino,35,35-44,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2024-10-09,1.7,Luan Fonseca,CLT,Remoto,Ativo
+896,Joana Cirino,Feminino,18,18-24,Viúvo,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-05-16,5.1,Julia da Costa,CLT,Presencial,Ativo
+897,Ravy Pimenta,Masculino,32,25-34,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-04-01,6.3,Dr. Francisco Monteiro,CLT,Presencial,Ativo
+898,Giovanna Leão,Feminino,35,35-44,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2020-08-17,5.9,Sra. Maria Clara Guerra,CLT,Presencial,Ativo
+899,Rael Cirino,Feminino,43,35-44,Solteiro,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2023-01-21,3.4,Caroline Oliveira,CLT,Presencial,Ativo
+900,Heloísa Brito,Masculino,37,35-44,Divorciado,Superior,Recife,PE,Nordeste,CD Recife,Não,2020-05-27,6.1,Sra. Isabela Novais,CLT,Remoto,Ativo
+901,Maria Helena Costa,Feminino,25,25-34,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2017-12-02,8.6,Dom Melo,CLT,Presencial,Ativo
+902,Felipe Leão,Feminino,35,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2026-01-06,0.5,Catarina Pires,CLT,Presencial,Ativo
+903,Yasmin Silveira,Masculino,57,55+,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Sim,2016-11-20,9.6,Dr. Kaique da Cunha,CLT,Presencial,Ativo
+904,Ana Julia Gonçalves,Masculino,43,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-07-19,8.0,Enrico Araújo,CLT,Presencial,Ativo
+905,José Miguel Melo,Masculino,22,18-24,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2026-02-23,0.4,Aylla Machado,CLT,Presencial,Ativo
+906,Sra. Joana Fonseca,Feminino,21,18-24,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2023-02-23,3.4,Dr. Luiz Felipe Almeida,CLT,Presencial,Ativo
+907,Camila Ferreira,Masculino,36,35-44,Solteiro,Superior,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-04-09,4.2,Fernanda Oliveira,CLT,Presencial,Ativo
+908,Zoe Cavalcanti,Feminino,37,35-44,Solteiro,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-06-11,4.1,Luiz Gustavo Duarte,CLT,Presencial,Ativo
+909,Sophia Mendonça,Masculino,29,25-34,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2026-04-09,0.2,Sra. Anna Liz Garcia,CLT,Presencial,Ativo
+910,Laura Martins,Masculino,37,35-44,Casado,MBA,Brasília,DF,Centro-Oeste,CD Brasília,Não,2017-01-25,9.4,Clara Cavalcante,CLT,Presencial,Ativo
+911,Maitê Leão,Masculino,33,25-34,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2020-06-15,6.0,Maria Luiza Barbosa,CLT,Presencial,Ativo
+912,Enrico Fernandes,Feminino,30,25-34,Casado,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2025-12-17,0.5,Levi Dias,Temporário,Presencial,Ativo
+913,Lavínia Santos,Feminino,45,45-54,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2020-10-16,5.7,Miguel da Mata,CLT,Presencial,Inativo
+914,Maria Cecília Souza,Feminino,32,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2023-01-19,3.4,Stephany Machado,CLT,Presencial,Ativo
+915,Eloah Cirino,Feminino,42,35-44,Solteiro,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2017-03-15,9.3,Davi Lucas Siqueira,CLT,Presencial,Ativo
+916,José Souza,Feminino,29,25-34,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2023-02-01,3.4,Dra. Anna Liz Costela,CLT,Híbrido,Ativo
+917,Miguel Caldeira,Masculino,52,45-54,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2024-04-15,2.2,Benício Melo,CLT,Presencial,Ativo
+918,Ana Júlia Alves,Feminino,28,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2022-06-16,4.0,Valentina Teixeira,Aprendiz,Presencial,Inativo
+919,Cauã da Luz,Feminino,22,18-24,Solteiro,Técnico,Recife,PE,Nordeste,CD Recife,Não,2022-01-09,4.5,Daniela Barros,CLT,Presencial,Ativo
+920,Maria Julia das Neves,Feminino,37,35-44,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2025-11-23,0.6,Josué Sousa,CLT,Híbrido,Ativo
+921,Pedro Miguel Pires,Feminino,33,25-34,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-07-04,5.0,Davi Lucca Moura,CLT,Presencial,Ativo
+922,Arthur Andrade,Masculino,45,45-54,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2019-04-30,7.2,Maria Alice Duarte,CLT,Presencial,Ativo
+923,Nina Nogueira,Masculino,30,25-34,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2016-12-10,9.6,Yan Macedo,CLT,Presencial,Ativo
+924,Vitor Hugo Cavalcanti,Masculino,38,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2024-06-04,2.1,Mirella Pires,CLT,Presencial,Ativo
+925,Dra. Maya Moura,Masculino,30,25-34,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2017-01-12,9.5,Yasmin das Neves,CLT,Presencial,Ativo
+926,Dr. Vitor Hugo da Conceição,Feminino,28,25-34,Casado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2021-01-09,5.5,Pedro Miguel das Neves,CLT,Presencial,Ativo
+927,Dr. José Pedro Cassiano,Feminino,50,45-54,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Sim,2023-08-21,2.9,Anthony Abreu,CLT,Presencial,Ativo
+928,Catarina Ferreira,Feminino,35,35-44,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2017-05-17,9.1,Ravy Nascimento,CLT,Presencial,Ativo
+929,Samuel Sá,Masculino,29,25-34,Casado,Superior,Recife,PE,Nordeste,CD Recife,Não,2021-01-31,5.4,Letícia Albuquerque,CLT,Presencial,Ativo
+930,Lavínia Peixoto,Masculino,49,45-54,Solteiro,Pós,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-12-27,4.5,André Novaes,CLT,Presencial,Inativo
+931,Sr. Noah Novais,Feminino,37,35-44,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Sim,2024-07-08,2.0,Maria Laura da Cruz,CLT,Presencial,Ativo
+932,Mathias Garcia,Feminino,18,18-24,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2016-09-05,9.8,João Barros,CLT,Presencial,Ativo
+933,Isabella Moreira,Feminino,38,35-44,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-10-12,7.7,Júlia da Paz,CLT,Presencial,Ativo
+934,Yasmin da Mata,Masculino,29,25-34,Casado,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2021-02-22,5.4,Esther Azevedo,CLT,Presencial,Ativo
+935,Davi Luiz da Rocha,Masculino,28,25-34,Casado,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2020-05-27,6.1,Rafael Pinto,CLT,Presencial,Ativo
+936,Júlia Sampaio,Masculino,43,35-44,Solteiro,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-10-02,7.8,Rebeca Correia,CLT,Híbrido,Ativo
+937,Sr. Dom Aragão,Feminino,35,35-44,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2021-10-23,4.7,Alícia Cirino,CLT,Presencial,Ativo
+938,João Miguel da Mata,Masculino,41,35-44,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-03-30,4.3,Pedro Lucas Siqueira,CLT,Presencial,Ativo
+939,Igor Borges,Masculino,61,55+,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2023-12-21,2.5,Anthony Gabriel Monteiro,CLT,Presencial,Ativo
+940,Luigi Leão,Feminino,32,25-34,Casado,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-08-07,3.9,Theo Freitas,CLT,Presencial,Ativo
+941,Ana Beatriz Farias,Masculino,38,35-44,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2017-07-10,9.0,Diogo Araújo,CLT,Presencial,Ativo
+942,Matteo Barbosa,Masculino,41,35-44,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-09-15,2.8,Olivia Cirino,CLT,Presencial,Ativo
+943,José Garcia,Feminino,20,18-24,Casado,Médio,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2023-12-14,2.5,Davi Vargas,CLT,Presencial,Ativo
+944,Srta. Maria Isis Vargas,Feminino,21,18-24,Casado,MBA,Curitiba,PR,Sul,CD Curitiba,Não,2024-01-03,2.5,Isadora Sousa,CLT,Presencial,Ativo
+945,Gael Henrique Marques,Masculino,55,55+,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2017-11-05,8.7,Srta. Stephany Rios,CLT,Híbrido,Ativo
+946,Renan Gomes,Masculino,18,18-24,Solteiro,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2017-01-09,9.5,Luana Duarte,CLT,Presencial,Ativo
+947,Asafe Souza,Masculino,37,35-44,Solteiro,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-06-07,5.1,Stephany Campos,CLT,Presencial,Ativo
+948,Rodrigo Porto,Feminino,42,35-44,Solteiro,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2017-03-08,9.3,Gael Henrique Fonseca,CLT,Presencial,Ativo
+949,Henrique Camargo,Masculino,43,35-44,Solteiro,Técnico,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2018-01-08,8.5,Pedro Henrique Duarte,CLT,Presencial,Ativo
+950,Enzo Vieira,Feminino,40,35-44,Viúvo,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2025-10-07,0.7,Dante Gonçalves,CLT,Presencial,Ativo
+951,Anthony Aparecida,Masculino,38,35-44,Divorciado,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-02-18,5.4,Olívia Sales,CLT,Híbrido,Ativo
+952,Daniela Freitas,Masculino,25,25-34,Divorciado,Superior,Recife,PE,Nordeste,CD Recife,Não,2024-08-16,1.9,Josué Castro,CLT,Híbrido,Ativo
+953,Ayla Rodrigues,Masculino,31,25-34,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2021-09-24,4.8,Maitê Teixeira,CLT,Presencial,Ativo
+954,Ana Liz Araújo,Masculino,36,35-44,Solteiro,Médio,Curitiba,PR,Sul,CD Curitiba,Sim,2016-08-21,9.9,Sr. Vitor Gabriel Vieira,CLT,Presencial,Ativo
+955,Davi Lucas Mendonça,Masculino,41,35-44,Casado,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2023-11-21,2.6,Liam Novais,CLT,Presencial,Ativo
+956,Manuella Macedo,Masculino,42,35-44,Solteiro,Superior,São Paulo,SP,Sudeste,CD São Paulo,Não,2018-08-18,7.9,Srta. Alícia Sales,CLT,Presencial,Ativo
+957,Maria Alice Silveira,Masculino,24,18-24,Solteiro,Fundamental,Curitiba,PR,Sul,CD Curitiba,Não,2025-03-21,1.3,José Aparecida,CLT,Presencial,Ativo
+958,Maysa Novais,Masculino,30,25-34,Divorciado,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Sim,2018-07-01,8.0,Vitor Hugo Sampaio,Temporário,Presencial,Ativo
+959,Esther Nunes,Masculino,46,45-54,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2021-06-12,5.1,Yago Ferreira,CLT,Presencial,Ativo
+960,Dr. João Guilherme Peixoto,Feminino,22,18-24,Solteiro,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-08-07,9.9,Elisa Azevedo,CLT,Presencial,Ativo
+961,Daniela Machado,Feminino,47,45-54,Casado,Técnico,Salvador,BA,Nordeste,CD Salvador,Não,2019-05-20,7.1,João Nogueira,CLT,Presencial,Ativo
+962,Dr. Alexandre Vasconcelos,Feminino,33,25-34,Solteiro,MBA,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2022-08-17,3.9,Sofia Garcia,CLT,Presencial,Ativo
+963,Srta. Allana Pinto,Feminino,54,45-54,Divorciado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2018-04-14,8.2,Sr. Lorenzo Silveira,CLT,Presencial,Ativo
+964,Vitor Gabriel Gomes,Masculino,26,25-34,Solteiro,Técnico,Recife,PE,Nordeste,CD Recife,Não,2024-05-01,2.2,Vinicius Rodrigues,CLT,Presencial,Ativo
+965,Daniela Pimenta,Feminino,35,35-44,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2016-07-21,10.0,Lorenzo Jesus,Temporário,Presencial,Inativo
+966,Luna Camargo,Masculino,25,25-34,Casado,Médio,Salvador,BA,Nordeste,CD Salvador,Não,2020-11-27,5.6,Vicente Ribeiro,CLT,Híbrido,Ativo
+967,Augusto Cardoso,Masculino,30,25-34,Divorciado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2018-01-13,8.5,Arthur Gabriel Costa,Aprendiz,Presencial,Ativo
+968,Ryan Correia,Masculino,34,25-34,Casado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-10-24,4.7,Arthur Gabriel Oliveira,CLT,Presencial,Ativo
+969,Maria Julia Ribeiro,Feminino,34,25-34,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2023-08-19,2.9,Valentina Pinto,CLT,Presencial,Ativo
+970,Dra. Jade Aragão,Feminino,35,35-44,Solteiro,Fundamental,Brasília,DF,Centro-Oeste,CD Brasília,Não,2021-01-06,5.5,Sr. Brayan Albuquerque,CLT,Presencial,Ativo
+971,Samuel Barros,Feminino,39,35-44,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Sim,2022-12-09,3.6,Ana Liz Fonseca,CLT,Híbrido,Ativo
+972,Maria Vitória Freitas,Masculino,30,25-34,Casado,Técnico,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-01-02,1.5,Srta. Juliana Moura,CLT,Presencial,Inativo
+973,Brayan da Rosa,Feminino,28,25-34,Casado,Pós,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-07-28,2.9,Henrique Moreira,CLT,Presencial,Ativo
+974,Carlos Eduardo Silveira,Masculino,29,25-34,Divorciado,Superior,Recife,PE,Nordeste,CD Recife,Não,2016-06-09,10.1,Vitor Gomes,Aprendiz,Presencial,Ativo
+975,Gael Moura,Feminino,18,18-24,Divorciado,Superior,Brasília,DF,Centro-Oeste,CD Brasília,Não,2025-02-14,1.4,Isadora Nunes,CLT,Presencial,Ativo
+976,Emanuelly Novais,Masculino,26,25-34,Casado,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Sim,2022-07-19,4.0,Dra. Maria Vitória Souza,CLT,Presencial,Ativo
+977,Luiz Henrique Rocha,Feminino,25,25-34,Casado,Superior,Salvador,BA,Nordeste,CD Salvador,Sim,2022-09-26,3.8,Mariane Caldeira,CLT,Presencial,Ativo
+978,Fernando Novaes,Masculino,44,35-44,Casado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2018-06-17,8.0,Sofia Fernandes,CLT,Presencial,Ativo
+979,Eduarda Nascimento,Masculino,42,35-44,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2023-11-24,2.6,Melina Fogaça,CLT,Presencial,Ativo
+980,Dr. Marcelo Jesus,Masculino,18,18-24,Solteiro,Fundamental,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2026-01-07,0.5,Marina Silveira,CLT,Remoto,Inativo
+981,Sr. Yago Cunha,Masculino,32,25-34,Solteiro,Superior,Salvador,BA,Nordeste,CD Salvador,Não,2017-09-02,8.8,Jade Fonseca,CLT,Presencial,Ativo
+982,Melissa Gonçalves,Masculino,33,25-34,Casado,Fundamental,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2021-05-25,5.1,Arthur Gabriel da Paz,CLT,Presencial,Ativo
+983,Allana Moreira,Feminino,38,35-44,Divorciado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2021-12-30,4.5,Kevin Abreu,CLT,Presencial,Ativo
+984,Henry Cunha,Feminino,48,45-54,Solteiro,Médio,Campinas,SP,Sudeste,CD Campinas,Não,2021-03-30,5.3,Sr. João Guilherme Novaes,CLT,Presencial,Ativo
+985,Daniela Brito,Masculino,29,25-34,Casado,Técnico,São Paulo,SP,Sudeste,CD São Paulo,Não,2016-04-07,10.2,Raul Fogaça,CLT,Presencial,Ativo
+986,Davi Miguel da Luz,Masculino,38,35-44,Solteiro,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2022-08-24,3.9,Sr. Igor da Cunha,CLT,Presencial,Ativo
+987,Caleb Oliveira,Masculino,30,25-34,Solteiro,Fundamental,São Paulo,SP,Sudeste,CD São Paulo,Não,2024-07-03,2.0,Helena Siqueira,CLT,Presencial,Ativo
+988,Luan Vieira,Feminino,24,18-24,Casado,Fundamental,Recife,PE,Nordeste,CD Recife,Não,2020-01-30,6.4,Emanuella Mendonça,CLT,Presencial,Ativo
+989,Dra. Aylla Peixoto,Feminino,49,45-54,Casado,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2021-03-18,5.3,Letícia Andrade,CLT,Presencial,Ativo
+990,Dra. Maria Helena Barros,Feminino,36,35-44,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Não,2019-03-23,7.3,Lucas Gabriel Ferreira,CLT,Presencial,Ativo
+991,Maria Vitória Campos,Feminino,38,35-44,Solteiro,Superior,Recife,PE,Nordeste,CD Recife,Não,2019-07-07,7.0,Anthony Porto,CLT,Híbrido,Ativo
+992,Maria Helena Aragão,Feminino,34,25-34,Divorciado,Técnico,Recife,PE,Nordeste,CD Recife,Não,2019-11-16,6.6,Vinicius Aparecida,CLT,Presencial,Ativo
+993,Sr. Luan Montenegro,Feminino,18,18-24,Casado,Médio,Curitiba,PR,Sul,CD Curitiba,Não,2021-12-17,4.5,Srta. Daniela Aragão,CLT,Presencial,Ativo
+994,Maria Júlia Machado,Masculino,40,35-44,Solteiro,Médio,São Paulo,SP,Sudeste,CD São Paulo,Sim,2022-01-04,4.5,Sofia Borges,CLT,Presencial,Ativo
+995,Pedro da Rocha,Masculino,30,25-34,Divorciado,Superior,Goiânia,GO,Centro-Oeste,CD Goiânia,Não,2018-12-21,7.5,Clara Cardoso,CLT,Presencial,Ativo
+996,Sr. Renan Oliveira,Feminino,32,25-34,Solteiro,Superior,Campinas,SP,Sudeste,CD Campinas,Não,2018-09-28,7.8,Srta. Maria Liz da Luz,CLT,Presencial,Ativo
+997,Murilo Montenegro,Feminino,46,45-54,Solteiro,Médio,Guarulhos,SP,Sudeste,CD Guarulhos,Não,2016-01-18,10.5,Caroline Teixeira,CLT,Presencial,Ativo
+998,Rodrigo Novais,Masculino,39,35-44,Divorciado,Médio,Brasília,DF,Centro-Oeste,CD Brasília,Não,2023-06-26,3.0,Ryan Gonçalves,Aprendiz,Presencial,Ativo
+999,Fernanda Novais,Feminino,42,35-44,Solteiro,Técnico,Campinas,SP,Sudeste,CD Campinas,Não,2017-05-23,9.1,Valentina da Cruz,CLT,Presencial,Ativo
+1000,Brayan da Mata,Masculino,51,45-54,Casado,Médio,Recife,PE,Nordeste,CD Recife,Não,2016-12-27,9.5,Luna Rodrigues,CLT,Presencial,Ativo

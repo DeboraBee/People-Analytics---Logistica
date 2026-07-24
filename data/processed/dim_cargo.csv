@@ -1,0 +1,10 @@
+id_cargo,cargo,nivel_cargo
+1,Analista,Tatico
+2,Analista Senior,Tatico
+3,Assistente,Tatico
+4,Auxiliar Operacional,Operacional
+5,Conferente,Operacional
+6,Coordenador,Estrategico
+7,Gerente,Estrategico
+8,Motorista,Operacional
+9,Supervisor,Tatico
