@@ -1,5 +1,6 @@
 import { createContext, useContext, useMemo, useState } from "react";
 import colaboradores from "../data/colaboradores.json";
+import serieMensalColaborador from "../data/serie_mensal_colaborador.json";
 
 const FILTER_KEYS = [
   { key: "departamento", label: "Departamento" },
@@ -34,6 +35,15 @@ export function FilterProvider({ children }) {
     );
   }, [filters]);
 
+  const filteredMensal = useMemo(() => {
+    return serieMensalColaborador.filter((row) =>
+      FILTER_KEYS.every(({ key }) => {
+        const selected = filters[key];
+        return !selected.length || selected.includes(row[key]);
+      })
+    );
+  }, [filters]);
+
   function toggle(key, value) {
     setFilters((prev) => {
       const cur = prev[key];
@@ -50,7 +60,7 @@ export function FilterProvider({ children }) {
 
   return (
     <FilterContext.Provider
-      value={{ filterDefs: FILTER_KEYS, filters, options, filtered, toggle, reset, activeCount, all: colaboradores }}
+      value={{ filterDefs: FILTER_KEYS, filters, options, filtered, filteredMensal, toggle, reset, activeCount, all: colaboradores }}
     >
       {children}
     </FilterContext.Provider>

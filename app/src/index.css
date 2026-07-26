@@ -301,6 +301,10 @@ button {
   margin-bottom: 16px;
 }
 
+.kpi-grid.fifths {
+  grid-template-columns: repeat(5, 1fr);
+}
+
 .kpi-card {
   background: var(--surface);
   border-radius: var(--radius);
@@ -458,7 +462,8 @@ button {
 }
 
 @media (max-width: 1200px) {
-  .kpi-grid {
+  .kpi-grid,
+  .kpi-grid.fifths {
     grid-template-columns: repeat(2, 1fr);
   }
   .charts-grid,

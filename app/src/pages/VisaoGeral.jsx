@@ -1,15 +1,18 @@
+import { useMemo } from "react";
 import { useFilters } from "../context/FilterContext";
 import KpiCard from "../components/KpiCard";
 import ChartCard from "../components/ChartCard";
 import { BarSimple, LineSimple } from "../components/charts";
-import { groupCount, groupPercent, avg, count, sortDesc, fmtInt, fmtMoney, fmtPct, fmtH, round } from "../utils/aggregate";
-import serieMensal from "../data/serie_mensal.json";
+import { groupCount, groupPercent, avg, count, sortDesc, fmtInt, fmtMoney, fmtPct, fmtH, round, buildSerieMensal } from "../utils/aggregate";
 
 export default function VisaoGeral() {
-  const { filtered } = useFilters();
+  const { filtered, filteredMensal } = useFilters();
+  const serieMensal = useMemo(() => buildSerieMensal(filteredMensal), [filteredMensal]);
 
   const ativos = filtered.filter((r) => r.status === "Ativo");
+  const inativos = filtered.length - ativos.length;
   const headcount = ativos.length;
+  const tempoEmpresaMedio = avg(ativos, "tempo_empresa");
   const turnoverPct = round((count(filtered, (r) => r.turnover === "Sim") / (filtered.length || 1)) * 100, 1);
   const absenteismo = avg(ativos, "absenteismo_pct");
   const slaMedio = avg(filtered.filter((r) => r.sla_recrutamento > 0), "sla_recrutamento");
@@ -23,10 +26,15 @@ export default function VisaoGeral() {
 
   return (
     <>
-      <div className="kpi-grid">
+      <div className="kpi-grid fifths">
         <KpiCard label="Headcount" value={fmtInt(headcount)} sub="Colaboradores ativos" />
+        <KpiCard label="Ativos x Inativos" value={`${fmtInt(headcount)} / ${fmtInt(inativos)}`} sub="Colaboradores ativos / inativos no quadro" />
         <KpiCard label="Turnover" value={fmtPct(turnoverPct)} sub="Desligamentos / total no período" />
         <KpiCard label="Absenteísmo" value={fmtPct(absenteismo)} sub="Média entre ativos" />
+        <KpiCard label="Tempo Médio de Empresa" value={tempoEmpresaMedio.toFixed(1) + " anos"} sub="Entre colaboradores ativos" />
+      </div>
+
+      <div className="kpi-grid fifths">
         <KpiCard label="SLA Médio" value={fmtInt(slaMedio) + " dias"} sub="Recrutamento e seleção" />
         <KpiCard label="Horas Extras" value={fmtH(horasExtras)} sub="Média mensal por colaborador" />
         <KpiCard label="Banco de Horas" value={fmtH(bancoHoras)} sub="Saldo médio (pode ser negativo)" />

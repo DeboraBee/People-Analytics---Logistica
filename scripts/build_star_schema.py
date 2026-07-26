@@ -10,7 +10,8 @@ Saida:    ../data/processed/dim_colaborador.csv
           ../data/processed/dim_departamento.csv
           ../data/processed/dim_cargo.csv
           ../data/processed/fato_rh.csv
-          ../data/processed/fato_rh_mensal.csv  (serie mensal agregada do painel colaborador x mes)
+          ../data/processed/fato_rh_mensal.csv             (serie mensal agregada, total da empresa)
+          ../data/processed/fato_rh_mensal_colaborador.csv (serie mensal grao colaborador, p/ filtros no front)
 """
 import pandas as pd
 
@@ -216,6 +217,47 @@ fato_rh_mensal["absenteismo_pct"] = fato_rh_mensal["absenteismo_pct"].round(2)
 fato_rh_mensal = fato_rh_mensal[["mes", "headcount", "turnover_pct", "absenteismo_pct"]]
 
 # ---------------------------------------------------------------------------
+# 6b. FATO MENSAL POR COLABORADOR (grao = 1 linha por colaborador por mes)
+#     Junta o painel colaborador x mes com os atributos de dimensao usados
+#     pelos filtros do dashboard (departamento, nivel_cargo, regional, sexo,
+#     tipo_contrato) para que a serie mensal possa ser recalculada no
+#     navegador em cima do recorte filtrado -- e nao apenas no total da
+#     empresa (que eh o que "fato_rh_mensal" acima representa).
+#
+#     O filtro "status" do dashboard usa o status ATUAL do colaborador (o
+#     mesmo de colaboradores.json), nao o status daquele mes especifico --
+#     senao filtrar por "Inativo" mostraria so a linha do mes de saida de
+#     cada desligado, escondendo o historico dele nos meses em que estava
+#     ativo. Por isso descartamos a coluna "status" (mensal) do painel bruto
+#     e usamos a de "df" (snapshot); o evento de saida em si continua
+#     identificavel pela coluna "turnover".
+# ---------------------------------------------------------------------------
+
+fato_rh_mensal_colaborador = serie_raw.drop(columns=["status"]).merge(
+    df[["id_colaborador", "departamento", "nivel_cargo", "regional", "sexo", "tipo_contrato", "status"]],
+    on="id_colaborador",
+).rename(columns={"absenteismo": "absenteismo_pct"})
+fato_rh_mensal_colaborador = fato_rh_mensal_colaborador[
+    [
+        "id_colaborador",
+        "mes",
+        "departamento",
+        "nivel_cargo",
+        "regional",
+        "sexo",
+        "tipo_contrato",
+        "status",
+        "turnover",
+        "salario",
+        "faltas",
+        "absenteismo_pct",
+        "horas_extras",
+        "nota_desempenho",
+        "engajamento",
+    ]
+]
+
+# ---------------------------------------------------------------------------
 # 7. EXPORTACAO
 # ---------------------------------------------------------------------------
 
@@ -224,6 +266,7 @@ dim_departamento.to_csv(f"{OUT_DIR}/dim_departamento.csv", index=False, encoding
 dim_cargo.to_csv(f"{OUT_DIR}/dim_cargo.csv", index=False, encoding="utf-8")
 fato_rh.to_csv(f"{OUT_DIR}/fato_rh.csv", index=False, encoding="utf-8")
 fato_rh_mensal.to_csv(f"{OUT_DIR}/fato_rh_mensal.csv", index=False, encoding="utf-8")
+fato_rh_mensal_colaborador.to_csv(f"{OUT_DIR}/fato_rh_mensal_colaborador.csv", index=False, encoding="utf-8")
 
 print("OK - arquivos gerados em", OUT_DIR)
 print("dim_colaborador:", dim_colaborador.shape)
@@ -231,3 +274,4 @@ print("dim_departamento:", dim_departamento.shape)
 print("dim_cargo:", dim_cargo.shape)
 print("fato_rh:", fato_rh.shape)
 print("fato_rh_mensal:", fato_rh_mensal.shape)
+print("fato_rh_mensal_colaborador:", fato_rh_mensal_colaborador.shape)
