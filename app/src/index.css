@@ -333,6 +333,15 @@ button {
   font-weight: 600;
 }
 
+.section-title {
+  font-size: 12.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-soft);
+  margin: 20px 0 10px;
+}
+
 .charts-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -429,6 +438,21 @@ button {
   border-radius: 20px;
   font-size: 10.5px;
   font-weight: 700;
+  background: #fff0f1;
+  color: var(--jt-red-dark);
+}
+
+.pill-risk-high {
+  background: var(--jt-red);
+  color: #fff;
+}
+
+.pill-risk-mid {
+  background: #fff4e0;
+  color: #b45309;
+}
+
+.pill-risk-low {
   background: #fff0f1;
   color: var(--jt-red-dark);
 }

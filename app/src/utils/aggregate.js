@@ -23,6 +23,17 @@ export function groupAvg(rows, key, valueKey) {
   }));
 }
 
+export function groupSum(rows, key, valueKey) {
+  const sums = new Map();
+  for (const r of rows) {
+    const k = r[key] ?? "N/A";
+    const v = r[valueKey];
+    if (v === null || v === undefined) continue;
+    sums.set(k, (sums.get(k) || 0) + v);
+  }
+  return [...sums.entries()].map(([name, value]) => ({ name, value: round(value, 2) }));
+}
+
 export function groupPercent(rows, key, predicate) {
   const totals = new Map();
   const matches = new Map();

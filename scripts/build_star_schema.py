@@ -4,19 +4,19 @@ Extrai a base bruta, limpa e organiza em modelo estrela (dim/fato).
 
 Uso: python build_star_schema.py
 Entrada:  ../data/raw/People Analytics - J&T Express.csv
+          ../data/raw/People Analytics - J&T Express - serie_mensal.csv
+          (gerado por generate_serie_mensal_raw.py)
 Saida:    ../data/processed/dim_colaborador.csv
           ../data/processed/dim_departamento.csv
           ../data/processed/dim_cargo.csv
           ../data/processed/fato_rh.csv
-          ../data/processed/fato_rh_mensal.csv  (serie mensal simulada)
+          ../data/processed/fato_rh_mensal.csv  (serie mensal agregada do painel colaborador x mes)
 """
-import numpy as np
 import pandas as pd
 
 RAW_PATH = "../data/raw/People Analytics - J&T Express.csv"
+RAW_SERIE_MENSAL_PATH = "../data/raw/People Analytics - J&T Express - serie_mensal.csv"
 OUT_DIR = "../data/processed"
-SEED = 42
-rng = np.random.default_rng(SEED)
 
 # ---------------------------------------------------------------------------
 # 1. EXTRACAO
@@ -176,47 +176,32 @@ fato_rh = fato[
 ].rename(columns={"absenteismo": "absenteismo_pct"})
 
 # ---------------------------------------------------------------------------
-# 6. FATO MENSAL (serie simulada p/ evolucao de turnover e absenteismo)
-#    ATENCAO: a base de origem eh um snapshot unico (sem historico real por
-#    mes). A pedido do usuario, geramos 24 meses simulados ancorados nos
-#    valores atuais reais (headcount, turnover% e absenteismo% do snapshot),
-#    com ruido/tendencia plausiveis, apenas para fins de demonstracao do
-#    dashboard. Isso deve ficar sinalizado na UI (ex: nota "dados simulados").
+# 6. FATO MENSAL (serie real, agregada a partir do painel colaborador x mes)
+#    A base de origem eh um snapshot unico (sem historico real por mes), mas
+#    "serie_mensal_raw.csv" (gerada por generate_serie_mensal_raw.py) monta
+#    um historico mes a mes por colaborador ancorado nos valores reais do
+#    snapshot. Aqui so agregamos esse historico (headcount = colaboradores
+#    presentes no mes, turnover% = desligamentos no mes / headcount,
+#    absenteismo% = media do mes) -- nao ha mais tendencia/ruido sintetico
+#    aplicado no nivel agregado.
 # ---------------------------------------------------------------------------
 
-N_MESES = 24
-hoje = pd.Timestamp("2026-07-01")
-meses = pd.date_range(end=hoje, periods=N_MESES, freq="MS")
+serie_raw = pd.read_csv(RAW_SERIE_MENSAL_PATH, encoding="utf-8")
 
-headcount_atual = int((df["status"] == "Ativo").sum())
-turnover_atual = float((df["turnover"] == "Sim").mean() * 100)
-absenteismo_atual = float(df["absenteismo"].mean())
-
-# tendencia leve + ruido, ancorado no valor real do ultimo mes
-trend_hc = np.linspace(-25, 0, N_MESES)
-noise_hc = rng.normal(0, 4, N_MESES)
-headcount_serie = np.round(headcount_atual + trend_hc + noise_hc).astype(int)
-headcount_serie[-1] = headcount_atual
-
-trend_to = np.linspace(2.5, 0, N_MESES)
-noise_to = rng.normal(0, 0.6, N_MESES)
-turnover_serie = np.clip(turnover_atual + trend_to + noise_to, 0, None).round(2)
-turnover_serie[-1] = round(turnover_atual, 2)
-
-trend_ab = np.linspace(1.0, 0, N_MESES)
-noise_ab = rng.normal(0, 0.3, N_MESES)
-absenteismo_serie = np.clip(absenteismo_atual + trend_ab + noise_ab, 0, None).round(2)
-absenteismo_serie[-1] = round(absenteismo_atual, 2)
-
-fato_rh_mensal = pd.DataFrame(
-    {
-        "mes": meses.strftime("%Y-%m"),
-        "headcount": headcount_serie,
-        "turnover_pct": turnover_serie,
-        "absenteismo_pct": absenteismo_serie,
-        "simulado": True,
-    }
+fato_rh_mensal = (
+    serie_raw.groupby("mes")
+    .agg(
+        headcount=("id_colaborador", "count"),
+        desligamentos=("turnover", lambda s: (s == "Sim").sum()),
+        absenteismo_pct=("absenteismo", "mean"),
+    )
+    .reset_index()
 )
+fato_rh_mensal["turnover_pct"] = (
+    fato_rh_mensal["desligamentos"] / fato_rh_mensal["headcount"] * 100
+).round(2)
+fato_rh_mensal["absenteismo_pct"] = fato_rh_mensal["absenteismo_pct"].round(2)
+fato_rh_mensal = fato_rh_mensal[["mes", "headcount", "turnover_pct", "absenteismo_pct"]]
 
 # ---------------------------------------------------------------------------
 # 7. EXPORTACAO

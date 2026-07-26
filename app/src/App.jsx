@@ -5,6 +5,8 @@ import VisaoGeral from "./pages/VisaoGeral";
 import Pessoas from "./pages/Pessoas";
 import Performance from "./pages/Performance";
 import SaudeOrganizacional from "./pages/SaudeOrganizacional";
+import Unidades from "./pages/Unidades";
+import Remuneracao from "./pages/Remuneracao";
 
 export default function App() {
   return (
@@ -16,6 +18,8 @@ export default function App() {
             <Route path="/pessoas" element={<Pessoas />} />
             <Route path="/performance" element={<Performance />} />
             <Route path="/saude-organizacional" element={<SaudeOrganizacional />} />
+            <Route path="/unidades" element={<Unidades />} />
+            <Route path="/remuneracao" element={<Remuneracao />} />
           </Routes>
         </Layout>
       </FilterProvider>

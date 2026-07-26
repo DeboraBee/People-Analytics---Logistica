@@ -6,6 +6,8 @@ const LINKS = [
   { to: "/pessoas", label: "Pessoas" },
   { to: "/performance", label: "Performance" },
   { to: "/saude-organizacional", label: "Saúde Organizacional" },
+  { to: "/unidades", label: "Unidades (CDs)" },
+  { to: "/remuneracao", label: "Remuneração & Recrutamento" },
 ];
 
 export default function Sidebar() {
