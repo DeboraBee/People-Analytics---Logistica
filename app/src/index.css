@@ -457,13 +457,6 @@ button {
   color: var(--jt-red-dark);
 }
 
-.sim-note {
-  font-size: 10.5px;
-  color: var(--text-soft);
-  font-weight: 600;
-  font-style: italic;
-}
-
 @media (max-width: 1200px) {
   .kpi-grid {
     grid-template-columns: repeat(2, 1fr);

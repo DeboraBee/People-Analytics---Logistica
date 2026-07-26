@@ -43,19 +43,11 @@ export default function VisaoGeral() {
           <BarSimple data={turnoverDept} horizontal color="#1a1a1a" formatter={(v) => fmtPct(v)} />
         </ChartCard>
 
-        <ChartCard
-          title="Evolução Mensal do Turnover"
-          sub="Últimos 24 meses"
-          note="Base de origem é um snapshot único; série mensal simulada para fins de demonstração, ancorada no valor real atual."
-        >
+        <ChartCard title="Evolução Mensal do Turnover" sub="Taxa acumulada em janela móvel de 12 meses">
           <LineSimple data={serieMensal} xKey="mes" dataKey="turnover_pct" formatter={(v) => fmtPct(v)} />
         </ChartCard>
 
-        <ChartCard
-          title="Evolução do Absenteísmo"
-          sub="Últimos 24 meses"
-          note="Série mensal simulada para fins de demonstração, ancorada no valor real atual."
-        >
+        <ChartCard title="Evolução do Absenteísmo" sub="Média mensal entre colaboradores no período">
           <LineSimple data={serieMensal} xKey="mes" dataKey="absenteismo_pct" color="#1a1a1a" formatter={(v) => fmtPct(v)} />
         </ChartCard>
       </div>

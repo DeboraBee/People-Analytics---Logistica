@@ -180,10 +180,16 @@ fato_rh = fato[
 #    A base de origem eh um snapshot unico (sem historico real por mes), mas
 #    "serie_mensal_raw.csv" (gerada por generate_serie_mensal_raw.py) monta
 #    um historico mes a mes por colaborador ancorado nos valores reais do
-#    snapshot. Aqui so agregamos esse historico (headcount = colaboradores
-#    presentes no mes, turnover% = desligamentos no mes / headcount,
-#    absenteismo% = media do mes) -- nao ha mais tendencia/ruido sintetico
-#    aplicado no nivel agregado.
+#    snapshot. Aqui so agregamos esse historico -- nao ha mais tendencia/
+#    ruido sintetico aplicado no nivel agregado.
+#
+#    turnover_pct eh calculado em janela movel de ate 12 meses (expandindo
+#    no inicio da serie, ate acumular 12 meses) em vez de mes a mes: com
+#    ~900 colaboradores e poucos desligamentos por mes, o turnover pontual
+#    mensal oscila muito (ex.: 0,1% num mes, 0,7% no seguinte) e no grafico
+#    fica ilegivel. A janela movel (turnover acumulado / headcount medio da
+#    janela) eh a metrica padrao de RH para isso e da uma linha de tendencia
+#    legivel.
 # ---------------------------------------------------------------------------
 
 serie_raw = pd.read_csv(RAW_SERIE_MENSAL_PATH, encoding="utf-8")
@@ -196,10 +202,16 @@ fato_rh_mensal = (
         absenteismo_pct=("absenteismo", "mean"),
     )
     .reset_index()
+    .sort_values("mes")
+    .reset_index(drop=True)
 )
-fato_rh_mensal["turnover_pct"] = (
-    fato_rh_mensal["desligamentos"] / fato_rh_mensal["headcount"] * 100
-).round(2)
+
+turnover_ttm = []
+for i in range(len(fato_rh_mensal)):
+    janela = fato_rh_mensal.iloc[max(0, i - 11) : i + 1]
+    turnover_ttm.append(round(janela["desligamentos"].sum() / janela["headcount"].mean() * 100, 2))
+
+fato_rh_mensal["turnover_pct"] = turnover_ttm
 fato_rh_mensal["absenteismo_pct"] = fato_rh_mensal["absenteismo_pct"].round(2)
 fato_rh_mensal = fato_rh_mensal[["mes", "headcount", "turnover_pct", "absenteismo_pct"]]
 

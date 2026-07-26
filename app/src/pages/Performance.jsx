@@ -72,7 +72,6 @@ export default function Performance() {
           title="Ranking de Gestores"
           sub="Top 10 colaboradores em cargo de gestão (Supervisor/Coordenador/Gerente), por nota individual"
           span2
-          note="A base não tem hierarquia real gestor-liderado (campo 'gestor' é ~1 nome distinto por colaborador); ranking usa a nota do próprio gestor."
         >
           <table className="rank-table">
             <thead>
